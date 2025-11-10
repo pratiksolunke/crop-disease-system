@@ -3,7 +3,7 @@ import requests
 from datetime import date
 
 # Flask backend base URL (Docker internal network)
-API_BASE = "http://backend:5000"
+API_BASE = "https://crop-disease-backend-v53d.onrender.com"
 
 st.set_page_config(page_title="Crop Disease Predictor", layout="wide")
 st.title("🌾 Crop Stage & Disease Predictor (Docker + Flask API)")
