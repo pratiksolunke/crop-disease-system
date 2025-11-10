@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: crop-disease-backend
+    env: docker
+    plan: free
+    dockerfilePath: ./backend/Dockerfile
+    buildCommand: ""
+    startCommand: "python app.py"
+    envVars:
+      - key: PORT
+        value: 5000
+
+  - type: web
+    name: crop-disease-frontend
+    env: docker
+    plan: free
+    dockerfilePath: ./frontend/Dockerfile
+    buildCommand: ""
+    startCommand: "streamlit run app.py --server.port 8501 --server.address 0.0.0.0"
+    envVars:
+      - key: PORT
+        value: 8501
