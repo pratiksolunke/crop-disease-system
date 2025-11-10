@@ -1,0 +1,22 @@
+services:
+  backend:
+    build: ./backend
+    container_name: crop_disease_backend
+    ports:
+      - "5000:5000"
+    networks:
+      - cropnet
+
+  frontend:
+    build: ./frontend
+    container_name: crop_disease_frontend
+    ports:
+      - "8501:8501"
+    depends_on:
+      - backend
+    networks:
+      - cropnet
+
+networks:
+  cropnet:
+    driver: bridge

@@ -1,0 +1,112 @@
+crop name,Days from Sowing (Start),Crop Stage,Crop Disease
+wheat,0,Seed Treatment & Sowing,Seed Rot
+wheat,0,Seed Treatment & Sowing,Black Point
+wheat,0,Seed Treatment & Sowing,Loose Smut
+wheat,10,Germination,Damping-off (Pythium)
+wheat,10,Germination,Seedling Blight (Fusarium)
+wheat,10,Germination,Root Rot (Fusarium)
+wheat,20,Emergence,Damping-off (Pythium)
+wheat,20,Emergence,Seedling Blight (Fusarium)
+wheat,35,Tillering,Yellow Rust
+wheat,35,Tillering,Barley Yellow Dwarf Virus (BYDV)
+wheat,35,Tillering,Root Rot (Fusarium)
+wheat,55,Stem Elongation / Jointing,Crown Rot
+wheat,55,Stem Elongation / Jointing,Root Rot (Fusarium)
+wheat,70,Booting,Leaf Blight
+wheat,70,Booting,Stripe Rust
+wheat,85,Heading & Flowering,Fusarium Head Blight
+wheat,85,Heading & Flowering,Leaf Rust
+wheat,105,Grain Filling,Septoria Leaf Blotch
+wheat,105,Grain Filling,Leaf Rust
+wheat,125,Maturity,Leaf Rust
+wheat,140,Harvest,Storage Fungi (Aspergillus)
+corn,0,Seed Treatment & Sowing,Dampingâ€‘off (Rhizoctonia solani)
+corn,0,Seed Treatment & Sowing,Seed rot / dampingâ€‘off (Pythium spp.)
+corn,0,Seed Treatment & Sowing,Seedling blight (Fusarium spp.)
+corn,5,Germination,Dampingâ€‘off (Pythium spp.)
+corn,5,Germination,Seedling blight (Fusarium spp.)
+corn,10,Emergence,Early downy mildew (Peronosclerospora sorghi)
+corn,10,Emergence,Seedling blight (Fusarium spp.)
+corn,20,Vegetative (V2â€“V10),Common rust (Puccinia sorghi)
+corn,20,Vegetative (V2â€“V10),Downy mildew (Peronosclerospora sorghi)
+corn,20,Vegetative (V2â€“V10),Gray leaf spot (Cercospora zeaeâ€‘maydis)
+corn,20,Vegetative (V2â€“V10),Northern leaf blight (Exserohilum turcicum)
+corn,20,Vegetative (V2â€“V10),Southern leaf blight / Maydis leaf blight (Bipolaris maydis)
+corn,55,Tasseling (VT),Common rust (Puccinia sorghi)
+corn,55,Tasseling (VT),Gray leaf spot (Cercospora zeaeâ€‘maydis)
+corn,55,Tasseling (VT),Northern leaf blight (Exserohilum turcicum)
+corn,60,Silking (R1),Common smut (Ustilago maydis)
+corn,60,Silking (R1),Fusarium ear rot (Fusarium verticillioides)
+corn,70,Blister (R2),Aspergillus ear rot (Aspergillus flavus)
+corn,70,Blister (R2),Fusarium ear rot
+corn,80,Milk (R3),Anthracnose leaf & stalk (Colletotrichum graminicola)
+corn,80,Milk (R3),Gibberella/Fusarium stalk rot (Fusarium graminearum)
+corn,95,Dough (R4),Charcoal rot (Macrophomina phaseolina)
+corn,95,Dough (R4),"Stalk rot complex (Fusarium, Gibberella)"
+corn,110,Dent (R5),Aspergillus ear rot (aflatoxin risk)
+corn,110,Dent (R5),Diplodia ear rot (Stenocarpella maydis)
+corn,110,Dent (R5),Late gray leaf spot
+corn,125,Physiological Maturity (R6),Stalk rots leading to lodging
+corn,135,Harvest,Grain molds if delayed / wet harvest
+cotton,0,Seed Treatment & Sowing,"Seed rot / damping-off (Rhizoctonia, Pythium)"
+cotton,0,Seed Treatment & Sowing,Seedling blight (Fusarium spp.)
+cotton,7,Germination & Emergence,Seedling blight (Fusarium spp.)
+cotton,7,Germination & Emergence,Root rot (Rhizoctonia solani)
+cotton,20,Vegetative Growth,Alternaria leaf spot
+cotton,20,Vegetative Growth,Bacterial blight
+cotton,20,Vegetative Growth,Fusarium wilt
+cotton,45,Square Formation,Gray mildew
+cotton,45,Square Formation,Leaf curl virus
+cotton,60,Flowering,Alternaria leaf spot
+cotton,60,Flowering,Leaf curl virus
+cotton,60,Flowering,Boll rot
+cotton,85,Boll Development,Boll rot complex
+cotton,85,Boll Development,Anthracnose
+cotton,115,Maturity,Boll rot
+cotton,115,Maturity,Sooty mold
+cotton,130,Harvest,Boll rot remnants
+cotton,130,Harvest,Fungal staining
+chickpea,0,Seed Treatment & Sowing,Seed rot
+chickpea,0,Seed Treatment & Sowing,Collar rot
+chickpea,7,Germination & Emergence,Damping-off
+chickpea,7,Germination & Emergence,Root rot
+chickpea,20,Vegetative Growth,Fusarium wilt
+chickpea,20,Vegetative Growth,Dry root rot
+chickpea,50,Flowering,Ascochyta blight
+chickpea,50,Flowering,Botrytis gray mold
+chickpea,65,Pod Formation,Botrytis gray mold
+chickpea,65,Pod Formation,Alternaria leaf spot
+chickpea,90,Maturity,Dry root rot
+chickpea,90,Maturity,Wilt
+chickpea,105,Harvest,Pod rot
+chickpea,105,Harvest,Seed discoloration fungi
+toor,0,Seed Treatment & Sowing,Seed rot
+toor,0,Seed Treatment & Sowing,Collar rot
+toor,7,Germination & Emergence,Damping-off
+toor,7,Germination & Emergence,Seedling blight
+toor,20,Vegetative Growth,Fusarium wilt
+toor,20,Vegetative Growth,Phytophthora blight
+toor,60,Flowering,Sterility mosaic virus
+toor,60,Flowering,Alternaria leaf spot
+toor,80,Pod Formation,Phytophthora blight
+toor,80,Pod Formation,Cercospora leaf spot
+toor,110,Maturity,Fusarium wilt
+toor,110,Maturity,Pod blight
+toor,130,Harvest,Pod rot
+toor,130,Harvest,Storage fungi
+jowar,0,Seed Treatment & Sowing,Seed rot (Fusarium spp.)
+jowar,0,Seed Treatment & Sowing,Damping-off (Pythium spp.)
+jowar,7,Germination & Emergence,Seedling blight (Fusarium spp.)
+jowar,7,Germination & Emergence,Downy mildew (Peronosclerospora sorghi)
+jowar,20,Vegetative Growth,Anthracnose (Colletotrichum graminicola)
+jowar,20,Vegetative Growth,Leaf blight (Exserohilum turcicum)
+jowar,20,Vegetative Growth,Rust (Puccinia purpurea)
+jowar,55,Booting,Downy mildew (Peronosclerospora sorghi)
+jowar,55,Booting,Leaf blight (Exserohilum turcicum)
+jowar,65,Flowering,Smut (Sphacelotheca reiliana)
+jowar,65,Flowering,Ergot (Claviceps sorghi)
+jowar,85,Grain Filling,Gray leaf spot (Cercospora sorghi)
+jowar,85,Grain Filling,Anthracnose (Colletotrichum graminicola)
+jowar,110,Maturity,"Grain mold complex (Fusarium, Curvularia, Alternaria)"
+jowar,125,Harvest,Grain mold if delayed harvest
+jowar,125,Harvest,Storage fungi (Aspergillus spp.)
