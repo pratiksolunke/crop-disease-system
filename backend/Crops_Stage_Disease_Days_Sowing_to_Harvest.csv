@@ -1,0 +1,1584 @@
+Crop,Days from Sowing (Start),Stage,Disease
+Wheat,0,Sowing,Seed Rot
+Wheat,0,Sowing,Black Point
+Wheat,0,Sowing,Loose Smut
+Wheat,10,Germination,Damping-off (Pythium)
+Wheat,10,Germination,Seedling Blight (Fusarium)
+Wheat,10,Germination,Root Rot (Fusarium)
+Wheat,12,Emergence,Damping-off (Pythium)
+Wheat,12,Emergence,Seedling Blight (Fusarium)
+Wheat,25,Tillering,Yellow Rust
+Wheat,25,Tillering,Barley Yellow Dwarf Virus (BYDV)
+Wheat,25,Tillering,Root Rot (Fusarium)
+Wheat,40,Stem Elongation / Jointing,Crown Rot
+Wheat,40,Stem Elongation / Jointing,Root Rot (Fusarium)
+Wheat,55,Booting,Leaf Blight
+Wheat,55,Booting,Stripe Rust
+Wheat,65,Heading,Fusarium Head Blight
+Wheat,65,Heading,Leaf Rust
+Wheat,95,Grain Filling,Septoria Leaf Blotch
+Wheat,95,Grain Filling,Leaf Rust
+Wheat,110,Maturity,Leaf Rust
+Wheat,120,Harvest,Storage Fungi (Aspergillus)
+Corn,0,Sowing,Damping off (Rhizoctonia solani)
+Corn,0,Sowing,Seed rot / damping off (Pythium spp.)
+Corn,0,Sowing,Seedling blight (Fusarium spp.)
+Corn,10,Germination,Damping off (Pythium spp.)
+Corn,10,Germination,Seedling blight (Fusarium spp.)
+Corn,12,Emergence,Early downy mildew (Peronosclerospora sorghi)
+Corn,12,Emergence,Seedling blight (Fusarium spp.)
+Corn,20,Vegetative Stage,Common rust (Puccinia sorghi)
+Corn,20,Vegetative Stage,Downy mildew (Peronosclerospora sorghi)
+Corn,20,Vegetative Stage,Gray leaf spot 
+Corn,20,Vegetative Stage,Northern leaf blight (Exserohilum turcicum)
+Corn,20,Vegetative Stage,Southern leaf blight / Maydis leaf blight (Bipolaris maydis)
+Corn,60,Tasseling,Common rust (Puccinia sorghi)
+Corn,60,Tasseling,Gray leaf spot
+Corn,60,Tasseling,Northern leaf blight (Exserohilum turcicum)
+Corn,72,Silking,Common smut (Ustilago maydis)
+Corn,72,Silking,Fusarium ear rot (Fusarium verticillioides)
+Corn,75,Blister Stage,Aspergillus ear rot (Aspergillus flavus)
+Corn,75,Blister Stage,Fusarium ear rot
+Corn,80,Milk Stage,Anthracnose leaf & stalk (Colletotrichum graminicola)
+Corn,80,Milk Stage,Gibberella/Fusarium stalk rot (Fusarium graminearum)
+Corn,90,Dough Stage,Charcoal rot (Macrophomina phaseolina)
+Corn,90,Dough Stage,"Stalk rot complex (Fusarium, Gibberella)"
+Corn,100,Dent Stage,Aspergillus ear rot (aflatoxin risk)
+Corn,100,Dent Stage,Diplodia ear rot (Stenocarpella maydis)
+Corn,100,Dent Stage,Late gray leaf spot
+Corn,110,Maturity,Stalk rots leading to lodging
+Corn,120,Harvest,Grain molds if delayed / wet harvest
+cotton,0,Sowing,"Seed rot / damping-off (Rhizoctonia, Pythium)"
+cotton,0,Sowing,Seedling blight (Fusarium spp.)
+cotton,10,Germination,Seedling blight (Fusarium spp.)
+cotton,10,Germination,Root rot (Rhizoctonia solani)
+cotton,20,Vegetative Stage,Alternaria leaf spot
+cotton,20,Vegetative Stage,Bacterial blight
+cotton,20,Vegetative Stage,Fusarium wilt
+cotton,45,Square Formation,Gray mildew
+cotton,45,Square Formation,Leaf curl virus
+cotton,70,Flowering,Alternaria leaf spot
+cotton,70,Flowering,Leaf curl virus
+cotton,70,Flowering,Boll rot
+cotton,90,Boll Development,Boll rot complex
+cotton,90,Boll Development,Anthracnose
+cotton,110,Maturity,Boll rot
+cotton,110,Maturity,Sooty mold
+cotton,120,Harvest,Boll rot remnants
+cotton,120,Harvest,Fungal staining
+chickpea,0,Sowing,Seed rot
+chickpea,0,Sowing,Collar rot
+chickpea,10,Germination,Damping-off
+chickpea,10,Germination,Root rot
+chickpea,20,Vegetative Stage,Fusarium wilt
+chickpea,20,Vegetative Stage,Dry root rot
+chickpea,70,Flowering,Ascochyta blight
+chickpea,70,Flowering,Botrytis gray mold
+chickpea,80,Pod Formation,Botrytis gray mold
+chickpea,80,Pod Formation,Alternaria leaf spot
+chickpea,110,Maturity,Dry root rot
+chickpea,110,Maturity,Wilt
+chickpea,120,Harvest,Pod rot
+chickpea,120,Harvest,Seed discoloration fungi
+toor,0,Sowing,Seed rot
+toor,0,Sowing,Collar rot
+toor,10,Germination,Damping-off
+toor,10,Germination,Seedling blight
+toor,20,Vegetative Stage,Fusarium wilt
+toor,20,Vegetative Stage,Phytophthora blight
+toor,70,Flowering,Sterility mosaic virus
+toor,70,Flowering,Alternaria leaf spot
+toor,80,Pod Formation,Phytophthora blight
+toor,80,Pod Formation,Cercospora leaf spot
+toor,110,Maturity,Fusarium wilt
+toor,110,Maturity,Pod blight
+toor,120,Harvest,Pod rot
+toor,120,Harvest,Storage fungi
+jowar,0,Sowing,Seed rot (Fusarium spp.)
+jowar,0,Sowing,Damping-off (Pythium spp.)
+jowar,10,Germination,Seedling blight (Fusarium spp.)
+jowar,10,Germination,Downy mildew (Peronosclerospora sorghi)
+jowar,20,Vegetative Stage,Anthracnose (Colletotrichum graminicola)
+jowar,20,Vegetative Stage,Leaf blight (Exserohilum turcicum)
+jowar,20,Vegetative Stage,Rust (Puccinia purpurea)
+jowar,55,Booting,Downy mildew (Peronosclerospora sorghi)
+jowar,55,Booting,Leaf blight (Exserohilum turcicum)
+jowar,70,Flowering,Smut (Sphacelotheca reiliana)
+jowar,70,Flowering,Ergot (Claviceps sorghi)
+jowar,95,Grain Filling,Gray leaf spot (Cercospora sorghi)
+jowar,95,Grain Filling,Anthracnose (Colletotrichum graminicola)
+jowar,110,Maturity,"Grain mold complex (Fusarium, Curvularia, Alternaria)"
+jowar,120,Harvest,Grain mold if delayed harvest
+jowar,120,Harvest,Storage fungi (Aspergillus spp.)
+Chickpea,10,Germination,Ascochyta Blight
+Chickpea,10,Germination,Dry Root Rot
+Chickpea,10,Germination,Rust
+Chickpea,10,Germination,Botrytis Gray Mold
+Chickpea,10,Germination,Healthy
+Chickpea,10,Germination,Powdery Mildew
+Chickpea,10,Germination,Collar Rot
+Chickpea,10,Germination,Fusarium Wilt
+Chickpea,120,Harvest,Collar Rot
+Chickpea,120,Harvest,Ascochyta Blight
+Chickpea,120,Harvest,Fusarium Wilt
+Chickpea,120,Harvest,Rust
+Chickpea,120,Harvest,Dry Root Rot
+Chickpea,120,Harvest,Botrytis Gray Mold
+Chickpea,120,Harvest,Healthy
+Chickpea,120,Harvest,Powdery Mildew
+Chickpea,90,Reproductive Stage,Botrytis Gray Mold
+Chickpea,90,Reproductive Stage,Healthy
+Chickpea,90,Reproductive Stage,Dry Root Rot
+Chickpea,90,Reproductive Stage,Rust
+Chickpea,90,Reproductive Stage,Ascochyta Blight
+Chickpea,90,Reproductive Stage,Powdery Mildew
+Chickpea,90,Reproductive Stage,Fusarium Wilt
+Chickpea,90,Reproductive Stage,Collar Rot
+Chickpea,20,Vegetative Stage,Rust
+Chickpea,20,Vegetative Stage,Collar Rot
+Chickpea,20,Vegetative Stage,Healthy
+Chickpea,20,Vegetative Stage,Dry Root Rot
+Chickpea,20,Vegetative Stage,Botrytis Gray Mold
+Chickpea,20,Vegetative Stage,Powdery Mildew
+Chickpea,20,Vegetative Stage,Ascochyta Blight
+Chickpea,20,Vegetative Stage,Fusarium Wilt
+Pigeon Pea,10,Germination,Seed Root Rot
+Pigeon Pea,10,Germination,Damping Off
+Pigeon Pea,0,Sowing,Collar Rot
+Pigeon Pea,0,Sowing,Soil-Borne Wilt Infection
+Pigeon Pea,20,Vegetative Stage,Fusarium Wilt
+Pigeon Pea,20,Vegetative Stage,Sterility Mosaic Disease
+Pigeon Pea,20,Vegetative Stage,Phytophthora Blight
+Pigeon Pea,70,Flowering,Sterility Mosaic Disease
+Pigeon Pea,70,Flowering,Powdery Mildew
+Pigeon Pea,70,Flowering,Alternaria Leaf Spot
+Pigeon Pea,80,Pod Formation,Pod Borer Damage (Helicoverpa)
+Pigeon Pea,80,Pod Formation,Cercospora Leaf Spot
+Chickpea,10,Germination,Damping off
+Chickpea,10,Germination,Seed rot
+Chickpea,20,Vegetative Stage,Leaf spot
+Chickpea,10,Germination,Root rot
+Chickpea,120,Harvest,Pod borer damage
+Chickpea,120,Harvest,Soil-borne blight
+Chickpea,90,Reproductive Stage,Dry root rot
+Chickpea,20,Vegetative Stage,Fusarium wilt
+Chickpea,20,Vegetative Stage,Ascochyta blight
+Chickpea,90,Reproductive Stage,Botrytis gray mold
+Chickpea,90,Reproductive Stage,Collar rot
+Chickpea,120,Harvest,Wilt (late)
+Corn,10,Germination,Maize Rust
+Corn,20,Vegetative Stage,Downy Mildew
+Corn,45,Squaring,Maydis Leaf Blight
+Corn,70,Flowering,Turcicum Leaf Blight
+Corn,90,Boll Development,Maize Streak Virus
+Corn,10,Germination,Smut Disease
+Corn,20,Vegetative Stage,Anthracnose Leaf Blight
+Corn,45,Squaring,Fusarium Ear Rot
+Corn,70,Flowering,Maize Mosaic Virus
+Corn,90,Boll Development,Diplodia Ear Rot
+Corn,10,Germination,Gray Leaf Spot
+Corn,20,Vegetative Stage,Brown Stripe Downy Mildew
+Corn,45,Squaring,Seedling Blight
+Corn,70,Flowering,Southern Leaf Blight
+Corn,90,Boll Development,Charcoal Rot
+Corn,10,Germination,Pythium Root Rot
+Corn,20,Vegetative Stage,Maize Leaf Blight
+Corn,45,Squaring,Banded Leaf and Sheath Blight
+Corn,70,Flowering,Head Smut
+Corn,90,Boll Development,Northern Corn Leaf Blight
+Cotton,0,Sowing,"Seed rot / damping-off (Rhizoctonia, Pythium)"
+Cotton,0,Sowing,Seedling blight (Fusarium spp.)
+Cotton,10,Germination,Seedling blight (Fusarium spp.)
+Cotton,10,Germination,Root rot (Rhizoctonia solani)
+Cotton,20,Vegetative Stage,Alternaria leaf spot
+Cotton,20,Vegetative Stage,Bacterial blight
+Cotton,20,Vegetative Stage,Fusarium wilt
+Cotton,45,Square Formation,Gray mildew
+Cotton,45,Square Formation,Leaf curl virus
+Cotton,70,Flowering,Alternaria leaf spot
+Cotton,70,Flowering,Leaf curl virus
+Cotton,70,Flowering,Boll rot
+Cotton,90,Boll Development,Boll rot complex
+Cotton,90,Boll Development,Anthracnose
+Cotton,110,Maturity,Boll rot
+Cotton,110,Maturity,Sooty mold
+Cotton,120,Harvest,Boll rot remnants
+Cotton,120,Harvest,Fungal staining
+Corn,120,Harvest,Stalk Borer
+Corn,110,Maturity,Seed Rot
+Corn,120,Harvest,Corn Smut
+Corn,95,Grain Filling,Storage Fungus
+Corn,95,Grain Filling,Stored Grain Mite
+Corn,95,Grain Filling,Gibberella Rot
+Corn,120,Harvest,Seed Rot
+Corn,10,Germination,Pink Ear Rot
+Corn,20,Vegetative Stage,Leaf Blight
+Corn,72,Silking,Root Rot
+Corn,110,Maturity,Stalk Borer
+Corn,10,Germination,Seed Rot
+Corn,120,Harvest,Charcoal Rot
+Corn,120,Harvest,Kernel Anthracnose
+Corn,120,Harvest,Soft Rot
+Corn,72,Silking,Leaf Blight
+Corn,72,Silking,Gray Leaf Spot
+Corn,120,Harvest,Common Rust
+Corn,110,Maturity,Soft Rot
+Corn,95,Grain Filling,Cutworm Damage
+Corn,72,Silking,Aflatoxin Contamination
+Corn,120,Harvest,Moldy Grain
+Corn,110,Maturity,Ear Rot
+Corn,20,Vegetative Stage,Common Rust
+Corn,120,Harvest,Tar Spot
+Corn,7,Seedling Stage,Stored Grain Mite
+Corn,110,Maturity,Armyworm Attack
+Corn,10,Germination,Moldy Grain
+Corn,10,Germination,Storage Fungus
+Corn,10,Germination,Green Ear Disease
+Corn,20,Vegetative Stage,Root Rot
+Corn,10,Germination,Cutworm Damage
+Corn,110,Maturity,Leaf Scald
+Corn,95,Grain Filling,Seed Rot
+Corn,72,Silking,Maize Grain Mold
+Corn,72,Silking,Kernel Rot
+Corn,95,Grain Filling,Pink Ear Rot
+Corn,110,Maturity,Leaf Blight
+Corn,120,Harvest,Stem Borer
+Corn,120,Harvest,Leaf Scald
+Corn,7,Seedling Stage,Cob Rot
+Corn,95,Grain Filling,Leaf Blight
+Corn,7,Seedling Stage,Gray Leaf Spot
+Corn,95,Grain Filling,Armyworm Attack
+Corn,120,Harvest,Cob Rot
+Corn,120,Harvest,Ear Rot
+Corn,7,Seedling Stage,Bacterial Spot
+Corn,72,Silking,Pink Ear Rot
+Corn,7,Seedling Stage,Aflatoxin Contamination
+Corn,110,Maturity,Diplodia Ear Rot
+Corn,95,Grain Filling,Stalk Borer
+Corn,10,Germination,Kernel Rot
+Corn,110,Maturity,Gibberella Rot
+Corn,95,Grain Filling,Root Rot
+Corn,110,Maturity,Corn Smut
+Corn,72,Silking,Charcoal Rot
+Corn,120,Harvest,Green Ear Disease
+Corn,72,Silking,Storage Fungus
+Corn,120,Harvest,Maize Streak Virus
+Corn,120,Harvest,Armyworm Attack
+Corn,120,Harvest,Bacterial Spot
+Corn,120,Harvest,Common Rust
+Corn,20,Vegetative Stage,Smut Infection
+Corn,10,Germination,Charcoal Rot
+Corn,110,Maturity,Pink Ear Rot
+Corn,120,Harvest,Storage Fungus
+Corn,120,Harvest,Stalk Borer
+Corn,120,Harvest,Moldy Grain
+Corn,10,Germination,Maize Streak Virus
+Corn,72,Silking,Kernel Anthracnose
+Corn,110,Maturity,Kernel Rot
+Corn,72,Silking,Cob Rot
+Corn,72,Silking,Cutworm Damage
+Corn,20,Vegetative Stage,Maize Grain Mold
+Corn,120,Harvest,Leaf Scald
+Corn,110,Maturity,Root Rot
+Corn,10,Germination,Bacterial Spot
+Corn,20,Vegetative Stage,Gray Leaf Spot
+Corn,10,Germination,Leaf Scald
+Corn,72,Silking,Ear Rot
+Corn,120,Harvest,Leaf Blight
+Corn,20,Vegetative Stage,Moldy Grain
+Corn,95,Grain Filling,Green Ear Disease
+Corn,120,Harvest,Corn Smut
+Corn,20,Vegetative Stage,Stalk Borer
+Corn,120,Harvest,Ear Rot
+Corn,120,Harvest,Root Rot
+Corn,95,Grain Filling,Soft Rot
+Corn,120,Harvest,Soft Rot
+Corn,120,Harvest,Smut Infection
+Corn,95,Grain Filling,Bacterial Spot
+Corn,10,Germination,Ear Rot
+Corn,110,Maturity,Green Ear Disease
+Corn,10,Germination,Soft Rot
+Corn,120,Harvest,Kernel Anthracnose
+Corn,120,Harvest,Pink Ear Rot
+Corn,7,Seedling Stage,Charcoal Rot
+Corn,72,Silking,Seed Rot
+Corn,7,Seedling Stage,Armyworm Attack
+Corn,72,Silking,Gibberella Rot
+Corn,20,Vegetative Stage,Kernel Rot
+Corn,95,Grain Filling,Maize Streak Virus
+Corn,7,Seedling Stage,Pink Ear Rot
+Corn,20,Vegetative Stage,Kernel Anthracnose
+Corn,10,Germination,Stored Grain Mite
+Corn,120,Harvest,Stem Borer
+Corn,110,Maturity,Kernel Anthracnose
+Corn,72,Silking,Soft Rot
+Corn,7,Seedling Stage,Stalk Borer
+Corn,10,Germination,Tar Spot
+Corn,20,Vegetative Stage,Bacterial Spot
+Corn,7,Seedling Stage,Storage Fungus
+Corn,120,Harvest,Leaf Blight
+Corn,95,Grain Filling,Common Rust
+Corn,72,Silking,Green Ear Disease
+Corn,120,Harvest,Gray Leaf Spot
+Corn,7,Seedling Stage,Maize Grain Mold
+Corn,20,Vegetative Stage,Cutworm Damage
+Corn,72,Silking,Corn Smut
+Corn,20,Vegetative Stage,Pink Ear Rot
+Corn,20,Vegetative Stage,Charcoal Rot
+Corn,120,Harvest,Bacterial Spot
+Corn,7,Seedling Stage,Kernel Anthracnose
+Corn,95,Grain Filling,Maize Grain Mold
+Corn,120,Harvest,Aflatoxin Contamination
+Corn,95,Grain Filling,Leaf Scald
+Corn,95,Grain Filling,Diplodia Ear Rot
+Corn,72,Silking,Moldy Grain
+Corn,10,Germination,Maize Grain Mold
+Corn,10,Germination,Stalk Borer
+Corn,20,Vegetative Stage,Gibberella Rot
+Corn,7,Seedling Stage,Soft Rot
+Corn,110,Maturity,Cob Rot
+Corn,7,Seedling Stage,Leaf Blight
+Corn,7,Seedling Stage,Diplodia Ear Rot
+Corn,20,Vegetative Stage,Seed Rot
+Corn,120,Harvest,Pink Ear Rot
+Corn,120,Harvest,Stored Grain Mite
+Corn,110,Maturity,Aflatoxin Contamination
+Corn,120,Harvest,Gibberella Rot
+Corn,110,Maturity,Cutworm Damage
+Corn,95,Grain Filling,Aflatoxin Contamination
+Corn,110,Maturity,Bacterial Spot
+Corn,20,Vegetative Stage,Maize Streak Virus
+Corn,20,Vegetative Stage,Storage Fungus
+Corn,120,Harvest,Maize Grain Mold
+Corn,72,Silking,Tar Spot
+Corn,7,Seedling Stage,Cutworm Damage
+Corn,20,Vegetative Stage,Stem Borer
+Corn,72,Silking,Maize Streak Virus
+Corn,95,Grain Filling,Moldy Grain
+Corn,120,Harvest,Storage Fungus
+Corn,7,Seedling Stage,Gibberella Rot
+Corn,120,Harvest,Cutworm Damage
+Corn,20,Vegetative Stage,Green Ear Disease
+Corn,7,Seedling Stage,Moldy Grain
+Corn,10,Germination,Cob Rot
+Corn,95,Grain Filling,Gray Leaf Spot
+Corn,20,Vegetative Stage,Aflatoxin Contamination
+Corn,72,Silking,Leaf Scald
+Corn,110,Maturity,Stem Borer
+Corn,120,Harvest,Cutworm Damage
+Corn,20,Vegetative Stage,Armyworm Attack
+Corn,7,Seedling Stage,Corn Smut
+Corn,20,Vegetative Stage,Cob Rot
+Corn,7,Seedling Stage,Smut Infection
+Corn,95,Grain Filling,Kernel Anthracnose
+Corn,120,Harvest,Tar Spot
+Corn,7,Seedling Stage,Tar Spot
+Corn,10,Germination,Kernel Anthracnose
+Corn,10,Germination,Leaf Blight
+Corn,72,Silking,Stored Grain Mite
+Corn,120,Harvest,Armyworm Attack
+Corn,72,Silking,Armyworm Attack
+Corn,120,Harvest,Diplodia Ear Rot
+Corn,110,Maturity,Storage Fungus
+Corn,10,Germination,Smut Infection
+Corn,72,Silking,Diplodia Ear Rot
+Corn,120,Harvest,Aflatoxin Contamination
+Corn,110,Maturity,Maize Streak Virus
+Corn,120,Harvest,Green Ear Disease
+Corn,120,Harvest,Seed Rot
+Corn,20,Vegetative Stage,Corn Smut
+Corn,120,Harvest,Maize Grain Mold
+Corn,95,Grain Filling,Smut Infection
+Corn,7,Seedling Stage,Common Rust
+Corn,110,Maturity,Charcoal Rot
+Corn,120,Harvest,Smut Infection
+Corn,72,Silking,Stalk Borer
+Corn,120,Harvest,Kernel Rot
+Corn,120,Harvest,Diplodia Ear Rot
+Corn,120,Harvest,Maize Streak Virus
+Corn,95,Grain Filling,Charcoal Rot
+Corn,7,Seedling Stage,Stem Borer
+Corn,7,Seedling Stage,Maize Streak Virus
+Corn,110,Maturity,Moldy Grain
+Corn,95,Grain Filling,Stem Borer
+Corn,120,Harvest,Gray Leaf Spot
+Corn,7,Seedling Stage,Ear Rot
+Corn,10,Germination,Root Rot
+Corn,10,Germination,Gibberella Rot
+Corn,10,Germination,Stem Borer
+Corn,20,Vegetative Stage,Ear Rot
+Corn,110,Maturity,Smut Infection
+Corn,120,Harvest,Root Rot
+Corn,120,Harvest,Gibberella Rot
+Corn,95,Grain Filling,Corn Smut
+Corn,7,Seedling Stage,Green Ear Disease
+Corn,72,Silking,Stem Borer
+Corn,120,Harvest,Charcoal Rot
+Corn,110,Maturity,Maize Grain Mold
+Corn,7,Seedling Stage,Kernel Rot
+Corn,20,Vegetative Stage,Stored Grain Mite
+Corn,95,Grain Filling,Cob Rot
+Corn,20,Vegetative Stage,Tar Spot
+Corn,110,Maturity,Common Rust
+Corn,20,Vegetative Stage,Leaf Scald
+Corn,72,Silking,Bacterial Spot
+Corn,95,Grain Filling,Kernel Rot
+Corn,10,Germination,Aflatoxin Contamination
+Corn,10,Germination,Diplodia Ear Rot
+Corn,7,Seedling Stage,Seed Rot
+Corn,95,Grain Filling,Tar Spot
+Corn,10,Germination,Armyworm Attack
+Corn,10,Germination,Corn Smut
+Corn,110,Maturity,Gray Leaf Spot
+Corn,95,Grain Filling,Ear Rot
+Corn,7,Seedling Stage,Leaf Scald
+Corn,20,Vegetative Stage,Soft Rot
+Corn,120,Harvest,Cob Rot
+Corn,110,Maturity,Stored Grain Mite
+Corn,120,Harvest,Kernel Rot
+Cotton,10,Germination,Pythium rot
+Cotton,10,Germination,Bacterial wilt
+Cotton,10,Germination,Fusarium wilt
+Cotton,10,Germination,Seed rot
+Cotton,10,Germination,Damping-off
+Cotton,10,Germination,Seedling blight
+Cotton,10,Germination,Root rot
+Cotton,10,Germination,Cotton Root Burn
+Cotton,10,Germination,Soil Fungus Rot
+Cotton,10,Germination,Root Blight
+Cotton,10,Germination,Early Shoot Decay
+Cotton,10,Germination,Seedling Anthracnose
+Cotton,10,Germination,Early Root Rot
+Cotton,20,Vegetative Stage,Red Leaf Spot
+Cotton,20,Vegetative Stage,Leaf Mosaic Infection
+Cotton,20,Vegetative Stage,Cotton Rust
+Cotton,20,Vegetative Stage,Leaf Curl Virus
+Cotton,20,Vegetative Stage,Downy Mildew
+Cotton,20,Vegetative Stage,Stem Canker
+Cotton,70,Flowering,Blossom Mold
+Cotton,70,Flowering,Flower Spot Disease
+Cotton,70,Flowering,Flower Mildew
+Cotton,70,Flowering,Petal Wilt Infection
+Cotton,70,Flowering,Bud Rot
+Cotton,70,Flowering,Flower Blight
+Cotton,90,Boll Development,Boll Rot
+Cotton,90,Boll Development,Internal Boll Fungus
+Cotton,90,Boll Development,Boll Blight
+Cotton,90,Boll Development,Boll Crack Infection
+Cotton,90,Boll Development,Boll Soft Rot
+Cotton,90,Boll Development,Cotton Boll Scab
+Cotton,110,Maturity,Dry Stem Disease
+Cotton,110,Maturity,Late Wilt
+Cotton,110,Maturity,Mature Boll Rot
+Cotton,110,Maturity,Sooty Mold
+Cotton,110,Maturity,Harvest Blight
+Cotton,110,Maturity,Fiber Mildew
+Wheat,10,Germination,Seedling Blight
+Wheat,10,Germination,Root Rot
+Wheat,25,Tillering,Leaf Rust
+Wheat,25,Tillering,Powdery Mildew
+Wheat,40,Stem Elongation / Jointing,Stem Rust
+Wheat,40,Stem Elongation / Jointing,Septoria Leaf Blotch
+Wheat,55,Booting,Leaf Blotch
+Wheat,55,Booting,Tan Spot
+Wheat,65,Heading,Fusarium Head Blight
+Wheat,65,Heading,Rust
+Wheat,70,Flowering,Loose Smut
+Wheat,70,Flowering,Ergot
+Wheat,95,Grain Filling,Black Point
+Wheat,95,Grain Filling,Glume Blotch
+Wheat,110,Maturity,Karnal Bunt
+Wheat,110,Maturity,Grain Discoloration
+Pigeon Pea,20,Vegetative Stage,Leaf Spot
+Pigeon Pea,20,Vegetative Stage,Alternaria Blight
+Pigeon Pea,80,Pod Formation,Powdery Mildew
+Pigeon Pea,70,Flowering,Viral Mosaic Infection
+Pigeon Pea,110,Maturity,Dry Pod Rot
+Pigeon Pea,7,Seedling Stage,Seedling Blight
+Pigeon Pea,7,Seedling Stage,Collar Rot
+Pigeon Pea,80,Pod Formation,Pod Borer
+Pigeon Pea,70,Flowering,Bud Necrosis
+Pigeon Pea,80,Pod Formation,Bacterial Blight
+Pigeon Pea,7,Seedling Stage,Root Rot
+Pigeon Pea,20,Vegetative Stage,Downy Mildew
+Pigeon Pea,110,Maturity,Wilt
+Pigeon Pea,70,Flowering,Phytophthora Blight
+Pigeon Pea,70,Flowering,Flower Drop Disease
+Pigeon Pea,10,Germination,Soil Fungus Infection
+Pigeon Pea,110,Maturity,Stem Canker
+Pigeon Pea,80,Pod Formation,Anthracnose
+Pigeon Pea,10,Germination,Seed Rot
+Pigeon Pea,110,Maturity,Root Rot
+Pigeon Pea,10,Germination,Early Root Rot
+Pigeon Pea,110,Maturity,Late Blight
+Pigeon Pea,80,Pod Formation,Pod Blight
+Pigeon Pea,10,Germination,Seed Mould
+Pigeon Pea,7,Seedling Stage,Early Stem Rot
+Pigeon Pea,7,Seedling Stage,Wilt
+Corn,10,Germination,Seed Rot / Seedling Blight
+Corn,7,Seedling Stage,Downy Mildew
+Corn,20,Vegetative Stage,"Leaf Blight, Rust"
+Corn,60,Tasseling,Smut
+Corn,95,Grain Filling,Ear Rot / Cob Rot
+Corn,110,Maturity,Stalk Rot
+Cotton,70,Flowering,Grey Mildew
+Cotton,70,Flowering,Anthracnose
+Cotton,70,Flowering,Leaf Curl Virus
+Cotton,70,Flowering,Damping-off
+Cotton,70,Flowering,Root Rot
+Cotton,70,Flowering,Fusarium Wilt
+Cotton,70,Flowering,Bacterial Blight
+Cotton,70,Flowering,Aphid Infestation
+Cotton,0,Sowing,Damping-Off
+Cotton,0,Sowing,Seed Rot
+Cotton,0,Sowing,Root Knot Nematode
+Cotton,20,Vegetative Stage,Bacterial Blight (Angular Leaf Spot)
+Cotton,20,Vegetative Stage,Leaf Spot (Alternaria)
+Cotton,20,Vegetative Stage,Cotton Leaf Curl Virus (CLCuV)
+Cotton,20,Vegetative Stage,Powdery Mildew
+Cotton,20,Vegetative Stage,Cotton Rust
+Cotton,20,Vegetative Stage,Root Rot
+Cotton,70,Flowering,Bacterial Blight (Boll Rot Phase)
+Cotton,70,Flowering,Fusarium Wilt
+Cotton,70,Flowering,Verticillium Wilt
+Cotton,70,Flowering,Phymatotrichum Root Rot (Texas Root Rot)
+Cotton,70,Flowering,Stemphylium Leaf Spot
+Cotton,70,Flowering,Grey Mildew
+Cotton,90,Boll Development,Boll Rot (various fungi)
+Cotton,90,Boll Development,Alternaria Leaf Spot
+Cotton,90,Boll Development,Areolate Mildew (Ramularia Leaf Spot)
+Cotton,90,Boll Development,Anthracnose (Boll Rot)
+Wheat,40,Stem Elongation / Jointing,Septoria spot
+Wheat,40,Stem Elongation / Jointing,Leaf rust
+Wheat,40,Stem Elongation / Jointing,Stripe rust
+Wheat,40,Stem Elongation / Jointing,Fusarium
+Chickpea,10,Germination,Collar Rot
+Chickpea,10,Germination,Healthy
+Chickpea,10,Germination,Wilt
+Chickpea,10,Germination,Root Rot
+Chickpea,12,Emergence,Healthy
+Chickpea,12,Emergence,Root Rot
+Chickpea,12,Emergence,Collar Rot
+Chickpea,12,Emergence,Wilt
+Wheat,65,Heading,Fusarium Head Blight (Scab)
+Wheat,65,Heading,Karnal Bunt
+Wheat,65,Heading,Stripe Rust / Yellow Rust
+Wheat,65,Heading,Stem Rust / Black Rust
+Wheat,65,Heading,Leaf Rust / Brown Rust
+Wheat,65,Heading,Powdery Mildew
+Wheat,65,Heading,Septoria Leaf Blotch
+Wheat,65,Heading,Glume Blotch
+Wheat,65,Heading,Loose Smut
+Wheat,65,Heading,Flag Smut
+Wheat,65,Heading,Bacterial Leaf Streak / Black Chaff
+Wheat,65,Heading,Bacterial Leaf Blight
+Wheat,65,Heading,Wheat Streak Mosaic Virus
+Wheat,65,Heading,Barley Yellow Dwarf Virus
+Soybean,10,Germination,Bacterial Blight
+Soybean,20,Vegetative Stage,Powdery Mildew
+Soybean,70,Flowering,Powdery Mildew
+Soybean,95,Grain Filling,Anthracnose
+Soybean,20,Vegetative Stage,Root Rot
+Soybean,95,Grain Filling,Nematode Infection
+Soybean,95,Grain Filling,Bacterial Blight
+Soybean,20,Vegetative Stage,Anthracnose
+Soybean,80,Pod Formation,Anthracnose
+Soybean,80,Pod Formation,Powdery Mildew
+Soybean,110,Maturity,Root Rot
+Soybean,80,Pod Formation,Root Rot
+Soybean,80,Pod Formation,Bacterial Blight
+Soybean,10,Germination,Nematode Infection
+Soybean,70,Flowering,Nematode Infection
+Soybean,20,Vegetative Stage,Brown Spot
+Soybean,110,Maturity,Anthracnose
+Soybean,20,Vegetative Stage,Nematode Infection
+Soybean,70,Flowering,Frogeye Leaf Spot
+Soybean,70,Flowering,Bacterial Blight
+Soybean,70,Flowering,Brown Spot
+Soybean,70,Flowering,Soybean Rust
+Soybean,70,Flowering,Root Rot
+Soybean,70,Flowering,Anthracnose
+Soybean,10,Germination,Frogeye Leaf Spot
+Soybean,110,Maturity,Powdery Mildew
+Soybean,20,Vegetative Stage,Frogeye Leaf Spot
+Soybean,110,Maturity,Brown Spot
+Soybean,95,Grain Filling,Powdery Mildew
+Soybean,80,Pod Formation,Nematode Infection
+Soybean,10,Germination,Brown Spot
+Soybean,20,Vegetative Stage,Bacterial Blight
+Soybean,110,Maturity,Soybean Rust
+Soybean,10,Germination,Root Rot
+Soybean,10,Germination,Anthracnose
+Soybean,10,Germination,Powdery Mildew
+Soybean,20,Vegetative Stage,Soybean Rust
+Soybean,110,Maturity,Bacterial Blight
+Soybean,80,Pod Formation,Brown Spot
+Soybean,80,Pod Formation,Frogeye Leaf Spot
+Soybean,95,Grain Filling,Brown Spot
+Soybean,80,Pod Formation,Soybean Rust
+Soybean,95,Grain Filling,Soybean Rust
+Soybean,110,Maturity,Frogeye Leaf Spot
+Soybean,10,Germination,Soybean Rust
+Soybean,95,Grain Filling,Root Rot
+Soybean,95,Grain Filling,Frogeye Leaf Spot
+Cotton,10,Germination,Cotton Leaf Curl Virus
+Cotton,10,Germination,Fusarium Wilt
+Cotton,7,Seedling Stage,Cotton Leaf Curl Virus
+Cotton,7,Seedling Stage,Fusarium Wilt
+Cotton,90,Boll Development,Root Rot
+Cotton,7,Seedling Stage,Alternaria Leaf Spot
+Cotton,90,Boll Development,Verticillium Wilt
+Cotton,10,Germination,Bacterial Blight
+Cotton,70,Flowering,Anthracnose
+Cotton,70,Flowering,Verticillium Wilt
+Cotton,70,Flowering,Root Rot
+Cotton,70,Flowering,Cotton Leaf Curl Virus
+Cotton,90,Boll Development,Cotton Leaf Curl Virus
+Cotton,90,Boll Development,Anthracnose
+Cotton,70,Flowering,Root Rot
+Cotton,70,Flowering,Grey Mildew
+Cotton,10,Germination,Boll Rot
+Cotton,90,Boll Development,Bacterial Blight
+Cotton,70,Flowering,Boll Rot
+Cotton,10,Germination,Grey Mildew
+Cotton,90,Boll Development,Alternaria Leaf Spot
+Cotton,70,Flowering,Alternaria Leaf Spot
+Cotton,10,Germination,Verticillium Wilt
+Cotton,7,Seedling Stage,Bacterial Blight
+Cotton,7,Seedling Stage,Root Rot
+Cotton,90,Boll Development,Grey Mildew
+Cotton,70,Flowering,Alternaria Leaf Spot
+Cotton,70,Flowering,Bacterial Blight
+Cotton,70,Flowering,Grey Mildew
+Cotton,70,Flowering,Boll Rot
+Cotton,7,Seedling Stage,Anthracnose
+Cotton,7,Seedling Stage,Grey Mildew
+Cotton,70,Flowering,Fusarium Wilt
+Cotton,7,Seedling Stage,Verticillium Wilt
+Cotton,70,Flowering,Fusarium Wilt
+Cotton,10,Germination,Alternaria Leaf Spot
+Cotton,7,Seedling Stage,Boll Rot
+Cotton,70,Flowering,Bacterial Blight
+Cotton,70,Flowering,Cotton Leaf Curl Virus
+Cotton,70,Flowering,Verticillium Wilt
+Cotton,10,Germination,Root Rot
+Cotton,10,Germination,Anthracnose
+Cotton,90,Boll Development,Fusarium Wilt
+Corn,0,Sowing,Seed rot (Pythium aphanidermatum)
+Corn,0,Sowing,Damping-off (Rhizoctonia solani)
+Corn,0,Sowing,Seedling blight (Fusarium verticillioides)
+Corn,0,Sowing,Bacterial rot (Pantoea stewartii)
+Corn,0,Sowing,Downy mildew (Peronosclerospora sorghi)
+Corn,0,Sowing,Aspergillus seed decay (Aspergillus niger)
+Corn,0,Sowing,Penicillium seed mould (Penicillium spp.)
+Corn,0,Sowing,Phytophthora root rot (Phytophthora cinnamomi)
+Corn,0,Sowing,Seedling wilt (Macrophomina phaseolina)
+Corn,0,Sowing,Seed-borne anthracnose (Colletotrichum graminicola)
+Corn,0,Sowing,Early leaf spot (Bipolaris maydis)
+Corn,0,Sowing,Alternaria seedling blight (Alternaria alternata)
+Corn,0,Sowing,Diplodia seed rot (Stenocarpella maydis)
+Corn,0,Sowing,Common smut infection (Ustilago maydis)
+Corn,0,Sowing,Bacterial leaf streak (Xanthomonas vasicola)
+Corn,0,Sowing,Ear rot early infection (Gibberella zeae)
+Corn,0,Sowing,Nigrospora seed mould (Nigrospora oryzae)
+Corn,0,Sowing,Curvularia seedling blight (Curvularia lunata)
+Corn,0,Sowing,Helminthosporium seed rot (Helminthosporium turcicum)
+Corn,0,Sowing,Cercospora early infection (Cercospora zeina)
+Corn,10,Germination,Damping-off (Pythium ultimum)
+Corn,10,Germination,Root rot (Fusarium oxysporum)
+Corn,10,Germination,Seedling root blight (Rhizoctonia bataticola)
+Corn,10,Germination,Early downy mildew (Peronosclerospora philippinensis)
+Corn,10,Germination,Brown stripe downy mildew (Sclerophthora rayssiae)
+Corn,10,Germination,Early bacterial wilt (Erwinia chrysanthemi)
+Corn,10,Germination,Fusarium stalk rot (early infection) (Fusarium graminearum)
+Corn,10,Germination,Seedling anthracnose (Colletotrichum sublineola)
+Corn,10,Germination,Root necrosis (Phoma terrestris)
+Corn,10,Germination,Early Helminthosporium infection (Exserohilum turcicum)
+Corn,10,Germination,Purple seedling syndrome (Fusarium proliferatum)
+Corn,10,Germination,Seedling mosaic (early infection) (Maize dwarf mosaic virus)
+Corn,10,Germination,Seedling chlorotic mottle (Maize chlorotic mottle virus)
+Corn,10,Germination,Early common rust infection (Puccinia sorghi)
+Corn,10,Germination,Aspergillus crown rot (Aspergillus flavus)
+Corn,10,Germination,Early leaf sheath blight (Thanatephorus cucumeris)
+Corn,10,Germination,Curvularia root rot (Curvularia geniculata)
+Corn,10,Germination,Phytophthora damping infection (Phytophthora capsici)
+Corn,10,Germination,Bacterial seedling streak (Pseudomonas syringae)
+Corn,10,Germination,Diplodia early root rot (Stenocarpella macrospora)
+Corn,20,Vegetative Stage,Northern corn leaf blight (Exserohilum turcicum)
+Corn,20,Vegetative Stage,Southern corn leaf blight (Bipolaris maydis)
+Corn,20,Vegetative Stage,Downy mildew (Peronosclerospora sorghi)
+Corn,20,Vegetative Stage,Common rust (Puccinia sorghi)
+Corn,20,Vegetative Stage,Gray leaf spot (Cercospora zeae-maydis)
+Corn,20,Vegetative Stage,Anthracnose leaf blight (Colletotrichum graminicola)
+Corn,20,Vegetative Stage,Maize streak virus (MSV)
+Corn,20,Vegetative Stage,Maize dwarf mosaic virus (MDMV)
+Corn,20,Vegetative Stage,Bacterial leaf streak (Xanthomonas vasicola)
+Corn,20,Vegetative Stage,Stewarts wilt (Pantoea stewartii)
+Corn,20,Vegetative Stage,Curvularia leaf spot (Curvularia lunata)
+Corn,20,Vegetative Stage,Banded leaf and sheath blight (Rhizoctonia solani)
+Corn,20,Vegetative Stage,Pythium root rot (Pythium arrhenomanes)
+Corn,20,Vegetative Stage,Fusarium root rot (Fusarium graminearum)
+Corn,20,Vegetative Stage,Leaf blight (Phyllosticta spp.)
+Corn,20,Vegetative Stage,Diplodia leaf streak (Stenocarpella maydis)
+Corn,20,Vegetative Stage,Aspergillus leaf spot (Aspergillus niger)
+Corn,20,Vegetative Stage,Maize chlorotic mottle virus (MCMV)
+Corn,20,Vegetative Stage,Early stalk rot (Fusarium spp.)
+Corn,20,Vegetative Stage,Phytophthora wilt (Phytophthora spp.)
+Corn,70,Flowering,Common rust (Puccinia sorghi)
+Corn,70,Flowering,Southern rust (Puccinia polysora)
+Corn,70,Flowering,Northern corn leaf blight (Exserohilum turcicum)
+Corn,70,Flowering,Gray leaf spot (Cercospora zeae-maydis)
+Corn,70,Flowering,Anthracnose stalk rot (Colletotrichum graminicola)
+Corn,70,Flowering,Fusarium ear rot (Fusarium verticillioides)
+Corn,70,Flowering,Aspergillus ear rot (Aspergillus flavus)
+Corn,70,Flowering,Diplodia ear rot (Stenocarpella maydis)
+Corn,70,Flowering,Gibberella ear rot (Fusarium graminearum)
+Corn,70,Flowering,Maize streak virus (MSV)
+Corn,70,Flowering,Maize dwarf mosaic virus (MDMV)
+Corn,70,Flowering,Bacterial stalk rot (Dickeya zeae)
+Corn,70,Flowering,Stewarts wilt (Pantoea stewartii)
+Corn,70,Flowering,Pythium stalk rot (Pythium spp.)
+Corn,70,Flowering,Rhizoctonia ear rot (Rhizoctonia solani)
+Corn,70,Flowering,Maize chlorotic mottle virus (MCMV)
+Corn,70,Flowering,Charcoal rot (Macrophomina phaseolina)
+Corn,70,Flowering,Banded leaf and sheath blight (Rhizoctonia solani)
+Corn,70,Flowering,Southern leaf blight (Bipolaris maydis)
+Corn,70,Flowering,Tip blight (Fusarium spp.)
+Corn,85,Fruiting,Gibberella ear rot (Fusarium graminearum)
+Corn,85,Fruiting,Aspergillus ear rot (Aspergillus flavus)
+Corn,85,Fruiting,Fusarium ear rot (Fusarium verticillioides)
+Corn,85,Fruiting,Diplodia ear rot (Stenocarpella maydis)
+Corn,85,Fruiting,Penicillium ear rot (Penicillium spp.)
+Corn,85,Fruiting,Trichoderma ear rot (Trichoderma spp.)
+Corn,85,Fruiting,Bacterial ear rot (Erwinia spp.)
+Corn,85,Fruiting,Black kernel rot (Diplodia macrospora)
+Corn,85,Fruiting,Charcoal rot (Macrophomina phaseolina)
+Corn,85,Fruiting,Late wilt (Harpophora maydis)
+Corn,85,Fruiting,Maize smut (Ustilago maydis)
+Corn,85,Fruiting,Maize rough dwarf virus (MRDV)
+Corn,85,Fruiting,Maize lethal necrosis (MLN)
+Corn,85,Fruiting,Banded leaf and sheath blight (Rhizoctonia solani)
+Corn,85,Fruiting,Southern rust (Puccinia polysora)
+Corn,85,Fruiting,Northern leaf blight (Exserohilum turcicum)
+Corn,85,Fruiting,Gray leaf spot (Cercospora zeae-maydis)
+Corn,85,Fruiting,Kernel smut (Tilletia spp.)
+Corn,85,Fruiting,Stalk rot (Fusarium spp. / Pythium spp.)
+Corn,85,Fruiting,Tip blight (Aspergillus or Fusarium spp.)
+Corn,110,Maturity,Fusarium stalk rot (Fusarium spp.)
+Corn,110,Maturity,Gibberella stalk rot (Fusarium graminearum)
+Corn,110,Maturity,Charcoal rot (Macrophomina phaseolina)
+Corn,110,Maturity,Diplodia stalk rot (Stenocarpella maydis)
+Corn,110,Maturity,Anthracnose stalk rot (Colletotrichum graminicola)
+Corn,110,Maturity,Late wilt (Harpophora maydis)
+Corn,110,Maturity,Maize smut (Ustilago maydis)
+Corn,110,Maturity,Aspergillus ear rot (Aspergillus flavus)
+Corn,110,Maturity,Fusarium ear rot (Fusarium verticillioides)
+Corn,110,Maturity,Diplodia ear rot (Stenocarpella maydis)
+Corn,110,Maturity,Penicillium ear rot (Penicillium spp.)
+Corn,110,Maturity,Black kernel rot (Diplodia macrospora)
+Corn,110,Maturity,Kernel smut (Tilletia spp.)
+Corn,110,Maturity,Banded leaf and sheath blight (Rhizoctonia solani)
+Corn,110,Maturity,Maize chlorotic mottle virus (MCMV)
+Corn,110,Maturity,Maize rough dwarf virus (MRDV)
+Corn,110,Maturity,Bacterial stalk rot (Dickeya zeae)
+Corn,110,Maturity,Pythium stalk rot (Pythium spp.)
+Corn,110,Maturity,Phytophthora stalk rot (Phytophthora spp.)
+Corn,110,Maturity,Ear tip dieback (Fusarium / Aspergillus spp.)
+Corn,120,Harvest,Kernel rot (Fusarium spp.)
+Corn,120,Harvest,Ear mold (Aspergillus/Penicillium spp.)
+Corn,120,Harvest,Fusarium ear rot (Fusarium verticillioides)
+Corn,120,Harvest,Aspergillus ear rot (Aspergillus flavus)
+Corn,120,Harvest,Gibberella ear rot (Fusarium graminearum)
+Corn,120,Harvest,Diplodia ear rot (Stenocarpella maydis)
+Corn,120,Harvest,Penicillium ear rot (Penicillium spp.)
+Corn,120,Harvest,Bacterial kernel rot (Pantoea/Erwinia spp.)
+Corn,120,Harvest,Black kernel rot (Diplodia macrospora)
+Corn,120,Harvest,Kernel smut (Tilletia spp.)
+Corn,120,Harvest,Storage mold (pre-harvest) (Aspergillus spp.)
+Corn,120,Harvest,Harvest maturity mold (Rhizopus spp.)
+Corn,120,Harvest,Smut gall persistence (Ustilago maydis)
+Corn,120,Harvest,Cob rot (Fusarium spp.)
+Corn,120,Harvest,Cob blight (Stenocarpella macrospora)
+Corn,120,Harvest,Maize weevil damage (Sitophilus zeamais)
+Corn,120,Harvest,Grain moth infestation (Sitotroga cerealella)
+Corn,120,Harvest,Aflatoxin contamination (Aspergillus flavus)
+Corn,120,Harvest,Charcoal rot (late form) (Macrophomina phaseolina)
+Corn,120,Harvest,Maize lethal necrosis (late symptom)
+Corn,120,Harvest,Aspergillus storage rot (Aspergillus flavus)
+Corn,120,Harvest,Penicillium storage mold (Penicillium spp.)
+Corn,120,Harvest,Fusarium storage rot (Fusarium verticillioides)
+Corn,120,Harvest,Rhizopus rot (Rhizopus stolonifer)
+Corn,120,Harvest,Mucor grain rot (Mucor spp.)
+Corn,120,Harvest,Bacterial soft rot (Erwinia spp.)
+Corn,120,Harvest,Aflatoxin contamination (Aspergillus flavus)
+Corn,120,Harvest,Ochratoxin contamination (Aspergillus ochraceus)
+Corn,120,Harvest,Maize weevil infestation (Sitophilus zeamais)
+Corn,120,Harvest,Grain borer attack (Prostephanus truncatus)
+Corn,120,Harvest,Indian meal moth (Plodia interpunctella)
+Corn,120,Harvest,Saw-toothed grain beetle (Oryzaephilus surinamensis)
+Corn,120,Harvest,Khapra beetle (Trogoderma granarium)
+Corn,120,Harvest,Stored grain mite infestation (Acarus siro)
+Corn,120,Harvest,Secondary mold infestation (Trichoderma spp.)
+Corn,120,Harvest,Black mold (Cladosporium spp.)
+Corn,120,Harvest,Red grain mold (Neurospora spp.)
+Corn,120,Harvest,Thermophilic fungal spoilage (Aspergillus fumigatus)
+Corn,120,Harvest,Improper drying mold (Alternaria spp.)
+Corn,120,Harvest,Moisture-induced spoilage (Mixed fungi complex)
+Cotton,0,Sowing,Seed rot (Rhizoctonia solani)
+Cotton,0,Sowing,Pythium seed rot (Pythium spp.)
+Cotton,0,Sowing,Fusarium seed rot (Fusarium oxysporum)
+Cotton,0,Sowing,Aspergillus seed rot (Aspergillus flavus)
+Cotton,0,Sowing,Penicillium seed mold (Penicillium spp.)
+Cotton,0,Sowing,Alternaria seed rot (Alternaria alternata)
+Cotton,0,Sowing,Bacterial seed rot (Xanthomonas citri pv. malvacearum)
+Cotton,0,Sowing,Damping-off (Rhizoctonia solani)
+Cotton,0,Sowing,Damping-off (Pythium aphanidermatum)
+Cotton,0,Sowing,Damping-off (Phytophthora spp.)
+Cotton,0,Sowing,Seedling wilt (Fusarium oxysporum f.sp. vasinfectum)
+Cotton,0,Sowing,Black seed mold (Cladosporium spp.)
+Cotton,0,Sowing,Curvularia seed rot (Curvularia lunata)
+Cotton,0,Sowing,Storage mold on seed (Mucor spp.)
+Cotton,0,Sowing,Seed-borne anthracnose (Colletotrichum gossypii)
+Cotton,0,Sowing,Seedling blight (Botrytis cinerea)
+Cotton,0,Sowing,Insect seed damage (Seed weevils)
+Cotton,0,Sowing,Seed hollowing (Stored grain beetles)
+Cotton,0,Sowing,Nematode-infested seeds (Meloidogyne spp.)
+Cotton,0,Sowing,Low vigor disorder (non-pathogenic)
+Cotton,10,Germination,Seedling Damping-Off (Pythium ultimum)
+Cotton,10,Germination,Root Rot (Rhizoctonia solani)
+Cotton,10,Germination,Fusarium Wilt Early Infection (Fusarium oxysporum)
+Cotton,10,Germination,Alternaria Seedling Spot (Alternaria alternata)
+Cotton,10,Germination,Aspergillus Seedling Rot (Aspergillus flavus)
+Cotton,10,Germination,Bacterial Blight Early Stage (Xanthomonas campestris pv. malvacearum)
+Cotton,10,Germination,Black Root Rot Early Stage (Thielaviopsis basicola)
+Cotton,10,Germination,Macrophomina Root Infection (Macrophomina phaseolina)
+Cotton,10,Germination,Anthracnose (Colletotrichum gossypii)
+Cotton,10,Germination,Seed Maggot Damage (Atherigona spp.)
+Cotton,10,Germination,Termite Damage (Odontotermes obesus)
+Cotton,10,Germination,Cutworm Attack (Agrotis ipsilon)
+Cotton,10,Germination,Wireworm Injury (Agriotes spp.)
+Cotton,10,Germination,Root-Knot Nematode Infection (Meloidogyne incognita)
+Cotton,10,Germination,Soil Crusting
+Cotton,10,Germination,Waterlogging Stress
+Cotton,10,Germination,Heat Stress
+Cotton,10,Germination,Salt Stress
+Cotton,10,Germination,Herbicide Injury (Pre-emergence Residue)
+Cotton,10,Germination,Low Seed Vigor
+Cotton,20,Vegetative Stage,Alternaria Leaf Spot (Alternaria macrospora)
+Cotton,20,Vegetative Stage,Cercospora Leaf Spot (Cercospora gossypina)
+Cotton,20,Vegetative Stage,Bacterial Leaf Blight (Xanthomonas campestris pv. malvacearum)
+Cotton,20,Vegetative Stage,Fusarium Wilt (Fusarium oxysporum f. sp. vasinfectum)
+Cotton,20,Vegetative Stage,Verticillium Wilt (Verticillium dahliae)
+Cotton,20,Vegetative Stage,Rhizoctonia Leaf Blight (Rhizoctonia solani)
+Cotton,20,Vegetative Stage,Powdery Mildew (Leveillula taurica)
+Cotton,20,Vegetative Stage,Myrothecium Leaf Spot (Myrothecium roridum)
+Cotton,20,Vegetative Stage,Cotton Leaf Curl Virus (CLCuV)
+Cotton,20,Vegetative Stage,Cotton Mosaic Virus
+Cotton,20,Vegetative Stage,Aphid Infestation (Aphis gossypii)
+Cotton,20,Vegetative Stage,Whitefly Infestation (Bemisia tabaci)
+Cotton,20,Vegetative Stage,Jassid / Leafhopper (Amrasca biguttula biguttula)
+Cotton,20,Vegetative Stage,Thrips (Thrips tabaci)
+Cotton,20,Vegetative Stage,Spider Mite (Tetranychus urticae)
+Cotton,20,Vegetative Stage,Root-Knot Nematode (Meloidogyne incognita)
+Cotton,20,Vegetative Stage,Zinc Deficiency
+Cotton,20,Vegetative Stage,Nitrogen Deficiency
+Cotton,20,Vegetative Stage,Water Stress (Drought)
+Cotton,20,Vegetative Stage,Herbicide Drift Injury
+Cotton,70,Flowering,Alternaria Leaf Spot (Alternaria macrospora)
+Cotton,70,Flowering,Grey Mildew (Ramularia areola)
+Cotton,70,Flowering,Powdery Mildew (Leveillula taurica)
+Cotton,70,Flowering,Fusarium Wilt (Fusarium oxysporum f. sp. vasinfectum)
+Cotton,70,Flowering,Verticillium Wilt (Verticillium dahliae)
+Cotton,70,Flowering,Bacterial Blight (Xanthomonas campestris pv. malvacearum)
+Cotton,70,Flowering,Anthracnose (Colletotrichum gossypii)
+Cotton,70,Flowering,Myrothecium Leaf Spot (Myrothecium roridum)
+Cotton,70,Flowering,Rust (Puccinia schedonnardii)
+Cotton,70,Flowering,Cotton Leaf Curl Virus (CLCuV)
+Cotton,70,Flowering,Tobacco Streak Virus (TSV)
+Cotton,70,Flowering,Whitefly Infestation (Bemisia tabaci)
+Cotton,70,Flowering,Aphid Infestation (Aphis gossypii)
+Cotton,70,Flowering,Thrips (Thrips tabaci)
+Cotton,70,Flowering,Jassid / Leafhopper (Amrasca biguttula biguttula)
+Cotton,70,Flowering,Pink Bollworm Early Stage (Pectinophora gossypiella)
+Cotton,70,Flowering,Spotted Bollworm (Earias vittella)
+Cotton,70,Flowering,Mite Infestation (Tetranychus urticae)
+Cotton,70,Flowering,Boron Deficiency
+Cotton,70,Flowering,Drought Stress
+Cotton,85,Fruiting,Boll Rot (Rhizoctonia solani)
+Cotton,85,Fruiting,Boll Rot (Phytophthora parasitica)
+Cotton,85,Fruiting,Anthracnose (Colletotrichum gossypii)
+Cotton,85,Fruiting,Fusarium Boll Rot (Fusarium spp.)
+Cotton,85,Fruiting,Alternaria Boll Spot (Alternaria alternata)
+Cotton,85,Fruiting,Aspergillus Boll Rot (Aspergillus flavus)
+Cotton,85,Fruiting,Black Boll Rot (Aspergillus niger)
+Cotton,85,Fruiting,Myrothecium Boll Rot (Myrothecium roridum)
+Cotton,85,Fruiting,Pink Bollworm (Pectinophora gossypiella)
+Cotton,85,Fruiting,Spotted Bollworm (Earias vittella)
+Cotton,85,Fruiting,American Bollworm (Helicoverpa armigera)
+Cotton,85,Fruiting,Tobacco Caterpillar (Spodoptera litura)
+Cotton,85,Fruiting,Whitefly (Bemisia tabaci)
+Cotton,85,Fruiting,Aphids (Aphis gossypii)
+Cotton,85,Fruiting,Mite Infestation (Tetranychus urticae)
+Cotton,85,Fruiting,Nematode Damage (Meloidogyne incognita)
+Cotton,85,Fruiting,Gray Mildew (Ramularia areola)
+Cotton,85,Fruiting,Magnesium Deficiency
+Cotton,85,Fruiting,Calcium Deficiency
+Cotton,85,Fruiting,Heat Stress
+Cotton,110,Maturity,Boll Rot (Rhizoctonia solani)
+Cotton,110,Maturity,Fusarium Boll Rot (Fusarium oxysporum)
+Cotton,110,Maturity,Aspergillus Boll Rot (Aspergillus flavus)
+Cotton,110,Maturity,Black Mold (Aspergillus niger)
+Cotton,110,Maturity,Alternaria Leaf Blight (Alternaria macrospora)
+Cotton,110,Maturity,Grey Mildew (Ramularia areola)
+Cotton,110,Maturity,Powdery Mildew (Leveillula taurica)
+Cotton,110,Maturity,Bacterial Blight (Xanthomonas campestris pv. malvacearum)
+Cotton,110,Maturity,Anthracnose (Colletotrichum gossypii)
+Cotton,110,Maturity,Myrothecium Leaf Spot (Myrothecium roridum)
+Cotton,110,Maturity,Verticillium Wilt (Verticillium dahliae)
+Cotton,110,Maturity,Pink Bollworm (Pectinophora gossypiella)
+Cotton,110,Maturity,Spotted Bollworm (Earias vittella)
+Cotton,110,Maturity,American Bollworm (Helicoverpa armigera)
+Cotton,110,Maturity,Whitefly (Bemisia tabaci)
+Cotton,110,Maturity,Aphids (Aphis gossypii)
+Cotton,110,Maturity,Mite Infestation (Tetranychus urticae)
+Cotton,110,Maturity,Nutrient Deficiency  Potassium
+Cotton,110,Maturity,Moisture Stress
+Cotton,110,Maturity,Heat Injury
+Cotton,120,Harvest,Cotton Boll Rot (Diplodia gossypina)
+Cotton,120,Harvest,Secondary Boll Rot (Macrophomina phaseolina)
+Cotton,120,Harvest,Aspergillus Lint Mold (Aspergillus flavus)
+Cotton,120,Harvest,Black Mold (Aspergillus niger)
+Cotton,120,Harvest,Phoma Boll Rot (Phoma spp.)
+Cotton,120,Harvest,Cotton Lint Mildew (Cladosporium herbarum)
+Cotton,120,Harvest,Harvest Wet Rot (Pectobacterium carotovorum)
+Cotton,120,Harvest,Cotton Seed Mold (Penicillium chrysogenum)
+Cotton,120,Harvest,Pink Bollworm Damage (Pectinophora gossypiella)
+Cotton,120,Harvest,Spotted Bollworm (Earias vittella)
+Cotton,120,Harvest,American Bollworm (Helicoverpa armigera)
+Cotton,120,Harvest,Whitefly (Bemisia tabaci)
+Cotton,120,Harvest,Aphids (Aphis gossypii)
+Cotton,120,Harvest,Red Mite (Tetranychus urticae)
+Cotton,120,Harvest,Cotton Lint Staining Disorder
+Cotton,120,Harvest,Sunscald on Open Bolls
+Cotton,120,Harvest,Moisture-Induced Fiber Weakening
+Cotton,120,Harvest,Mechanical Injury Bruising
+Cotton,120,Harvest,Premature Boll Cracking
+Cotton,120,Harvest,Harvest Delay Damage
+Cotton,120,Harvest,Cotton Lint Mold (Aspergillus flavus)
+Cotton,120,Harvest,Black Lint Mold (Aspergillus niger)
+Cotton,120,Harvest,Blue-Green Storage Mold (Penicillium chrysogenum)
+Cotton,120,Harvest,Rhizopus Storage Rot (Rhizopus stolonifer)
+Cotton,120,Harvest,Fusarium Seed Rot (Fusarium oxysporum)
+Cotton,120,Harvest,Bacterial Wet Rot (Pectobacterium carotovorum)
+Cotton,120,Harvest,Stored Seed Blight (Alternaria alternata)
+Cotton,120,Harvest,Stored Lint Discoloration (Cladosporium herbarum)
+Cotton,120,Harvest,Cotton Seed Weevil (Sitophilus oryzae)
+Cotton,120,Harvest,Red Flour Beetle (Tribolium castaneum)
+Cotton,120,Harvest,Warehouse Moth (Ephestia cautella)
+Cotton,120,Harvest,Hot Spot Heating Damage
+Cotton,120,Harvest,Moisture Reabsorption Damage
+Cotton,120,Harvest,Bale Compression Injury
+Cotton,120,Harvest,Chemical Contamination (Oil/Grease)
+Cotton,120,Harvest,Dust Contamination
+Cotton,120,Harvest,Fiber Oxidation
+Cotton,120,Harvest,Long-Term Fiber Dehydration
+Cotton,120,Harvest,Bale Fungal Fermentation
+Cotton,120,Harvest,Seed Rancidity
+Chickpea,0,Sowing,Seed Rot (Pythium aphanidermatum)
+Chickpea,0,Sowing,Pre-emergence Damping-off (Rhizoctonia solani)
+Chickpea,0,Sowing,Pre-emergence Damping-off (Fusarium oxysporum)
+Chickpea,0,Sowing,Collar Rot (Sclerotium rolfsii)
+Chickpea,0,Sowing,Aspergillus Seed Rot (Aspergillus flavus)
+Chickpea,0,Sowing,Penicillium Seed Decay (Penicillium spp.)
+Chickpea,0,Sowing,Macrophomina Seedling Rot (Macrophomina phaseolina)
+Chickpea,0,Sowing,Botrytis Seed Mould (Botrytis cinerea)
+Chickpea,0,Sowing,Phytophthora Seed Rot (Phytophthora medicaginis)
+Chickpea,0,Sowing,Bacterial Seed Rot (Pseudomonas fluorescens)
+Chickpea,0,Sowing,Storage Mold Carryover (Cladosporium cladosporioides)
+Chickpea,0,Sowing,Insect-Damaged Seed (Bruchid Beetle) (Callosobruchus chinensis)
+Chickpea,0,Sowing,Seed Desiccation Injury
+Chickpea,0,Sowing,Seed Waterlogging Damage
+Chickpea,0,Sowing,Soil Salinity Stress
+Chickpea,0,Sowing,Seed Cold Injury
+Chickpea,0,Sowing,Seed Chemical Injury (Fertilizer Burn)
+Chickpea,0,Sowing,Herbicide Carryover Damage
+Chickpea,0,Sowing,Poor Seed Viability
+Chickpea,0,Sowing,Mechanical Seed Damage
+Chickpea,10,Germination,Post-emergence Damping-off (Pythium aphanidermatum)
+Chickpea,10,Germination,Seedling Blight (Rhizoctonia solani)
+Chickpea,10,Germination,Fusarium Seedling Wilt (Fusarium oxysporum f. sp. ciceri)
+Chickpea,10,Germination,Macrophomina Seedling Rot (Macrophomina phaseolina)
+Chickpea,10,Germination,Alternaria Seedling Blight (Alternaria alternata)
+Chickpea,10,Germination,Botrytis Seedling Blight (Botrytis cinerea)
+Chickpea,10,Germination,Phytophthora Seedling Rot (Phytophthora medicaginis)
+Chickpea,10,Germination,Seedling Soft Rot (Erwinia carotovora)
+Chickpea,10,Germination,Bacterial Seedling Blight (Pseudomonas syringae)
+Chickpea,10,Germination,Early Root Rot (Fusarium solani)
+Chickpea,10,Germination,Root Lesion Nematode Damage (Pratylenchus thornei)
+Chickpea,10,Germination,Early Cutworm Damage (Agrotis ipsilon)
+Chickpea,10,Germination,Aphid Transmission Injury (Aphis craccivora)
+Chickpea,10,Germination,Low Temperature Stress
+Chickpea,10,Germination,Heat Injury
+Chickpea,10,Germination,Soil Crusting
+Chickpea,10,Germination,Herbicide Injury (Imidazolinone Residue)
+Chickpea,10,Germination,Poor Soil Aeration
+Chickpea,10,Germination,Nutrient Deficiency  Phosphorus
+Chickpea,10,Germination,Mechanical Damage
+Chickpea,20,Vegetative Stage,Ascochyta Blight (Ascochyta rabiei)
+Chickpea,20,Vegetative Stage,Fusarium Wilt (Fusarium oxysporum f. sp. ciceris)
+Chickpea,20,Vegetative Stage,Collar Rot (Sclerotium rolfsii)
+Chickpea,20,Vegetative Stage,Alternaria Leaf Spot (Alternaria alternata)
+Chickpea,20,Vegetative Stage,Rust (Uromyces ciceris-arietini)
+Chickpea,20,Vegetative Stage,Botrytis Grey Mold (Botrytis cinerea)
+Chickpea,20,Vegetative Stage,Macrophomina Charcoal Rot (Macrophomina phaseolina)
+Chickpea,20,Vegetative Stage,Rhizoctonia Root Rot (Rhizoctonia solani)
+Chickpea,20,Vegetative Stage,Phytophthora Root Rot (Phytophthora medicaginis)
+Chickpea,20,Vegetative Stage,Bacterial Blight (Xanthomonas campestris pv. cassiae)
+Chickpea,20,Vegetative Stage,Bacterial Leaf Spot (Pseudomonas syringae)
+Chickpea,20,Vegetative Stage,Root-Knot Nematode (Meloidogyne incognita)
+Chickpea,20,Vegetative Stage,Root Lesion Nematode (Pratylenchus thornei)
+Chickpea,20,Vegetative Stage,Pod Borer Early Feeding (Helicoverpa armigera)
+Chickpea,20,Vegetative Stage,Aphid Infestation (Aphis craccivora)
+Chickpea,20,Vegetative Stage,Thrips Damage (Caliothrips indicus)
+Chickpea,20,Vegetative Stage,Nutrient Deficiency  Nitrogen
+Chickpea,20,Vegetative Stage,Nutrient Deficiency  Zinc
+Chickpea,20,Vegetative Stage,"Herbicide Injury (2,4-D Drift)"
+Chickpea,20,Vegetative Stage,Waterlogging Stress
+Chickpea,70,Flowering,Ascochyta Blight (Ascochyta rabiei)
+Chickpea,70,Flowering,Botrytis Grey Mold (Botrytis cinerea)
+Chickpea,70,Flowering,Fusarium Wilt (Fusarium oxysporum f. sp. ciceris)
+Chickpea,70,Flowering,Collar Rot (Sclerotium rolfsii)
+Chickpea,70,Flowering,Stem Rot (Macrophomina phaseolina)
+Chickpea,70,Flowering,Alternaria Leaf Spot (Alternaria alternata)
+Chickpea,70,Flowering,Rust (Uromyces ciceris-arietini)
+Chickpea,70,Flowering,Phytophthora Root Rot (Phytophthora medicaginis)
+Chickpea,70,Flowering,Bacterial Blight (Xanthomonas campestris pv. cassiae)
+Chickpea,70,Flowering,Bacterial Leaf Spot (Pseudomonas syringae)
+Chickpea,70,Flowering,Pod Borer (Helicoverpa armigera)
+Chickpea,70,Flowering,Aphid Infestation (Aphis craccivora)
+Chickpea,70,Flowering,Thrips Damage (Caliothrips indicus)
+Chickpea,70,Flowering,Mite Injury (Tetranychus urticae)
+Chickpea,70,Flowering,Nutrient Deficiency  Boron
+Chickpea,70,Flowering,Nutrient Deficiency  Potassium
+Chickpea,70,Flowering,Herbicide Drift Injury (Glyphosate)
+Chickpea,70,Flowering,Drought Stress
+Chickpea,70,Flowering,Heat Stress
+Chickpea,70,Flowering,Waterlogging Stress
+Chickpea,85,Fruiting,Ascochyta Blight (Ascochyta rabiei)
+Chickpea,85,Fruiting,Botrytis Grey Mold (Botrytis cinerea)
+Chickpea,85,Fruiting,Fusarium Wilt (Fusarium oxysporum f. sp. ciceris)
+Chickpea,85,Fruiting,Dry Root Rot (Macrophomina phaseolina)
+Chickpea,85,Fruiting,Alternaria Pod Blight (Alternaria alternata)
+Chickpea,85,Fruiting,Rust (Uromyces ciceris-arietini)
+Chickpea,85,Fruiting,Phytophthora Root Rot (Phytophthora medicaginis)
+Chickpea,85,Fruiting,Bacterial Blight (Xanthomonas campestris pv. cassiae)
+Chickpea,85,Fruiting,Bacterial Leaf Spot (Pseudomonas syringae)
+Chickpea,85,Fruiting,Pod Borer (Helicoverpa armigera)
+Chickpea,85,Fruiting,Aphids (Aphis craccivora)
+Chickpea,85,Fruiting,Thrips (Caliothrips indicus)
+Chickpea,85,Fruiting,White Grub (Holotrichia spp.)
+Chickpea,85,Fruiting,Mite Infestation (Tetranychus urticae)
+Chickpea,85,Fruiting,Nutrient Deficiency  Potassium
+Chickpea,85,Fruiting,Nutrient Deficiency  Boron
+Chickpea,85,Fruiting,Herbicide Residue Injury
+Chickpea,85,Fruiting,Drought Stress
+Chickpea,85,Fruiting,Heat Stress
+Chickpea,85,Fruiting,Waterlogging Stress
+Chickpea,110,Maturity,Ascochyta Pod Blight (Ascochyta rabiei)
+Chickpea,110,Maturity,Fusarium Wilt (Fusarium oxysporum f. sp. ciceris)
+Chickpea,110,Maturity,Dry Root Rot (Macrophomina phaseolina)
+Chickpea,110,Maturity,Alternaria Pod Rot (Alternaria alternata)
+Chickpea,110,Maturity,Rust (Uromyces ciceris-arietini)
+Chickpea,110,Maturity,Botrytis Grey Mold (Botrytis cinerea)
+Chickpea,110,Maturity,Phytophthora Root Rot (Phytophthora medicaginis)
+Chickpea,110,Maturity,Bacterial Blight (Xanthomonas campestris pv. cassiae)
+Chickpea,110,Maturity,Bacterial Leaf Spot (Pseudomonas syringae)
+Chickpea,110,Maturity,Pod Borer (Helicoverpa armigera)
+Chickpea,110,Maturity,Aphids (Aphis craccivora)
+Chickpea,110,Maturity,Thrips (Caliothrips indicus)
+Chickpea,110,Maturity,White Grub Damage (Holotrichia spp.)
+Chickpea,110,Maturity,Mite Infestation (Tetranychus urticae)
+Chickpea,110,Maturity,Nutrient Deficiency  Potassium
+Chickpea,110,Maturity,Nutrient Deficiency  Boron
+Chickpea,110,Maturity,Herbicide Injury (Carryover Residue)
+Chickpea,110,Maturity,Drought Stress
+Chickpea,110,Maturity,Heat Stress
+Chickpea,110,Maturity,Waterlogging Stress
+Chickpea,120,Harvest,Pod Borer Damage (Helicoverpa armigera)
+Chickpea,120,Harvest,Bruchid Infestation (Callosobruchus chinensis)
+Chickpea,120,Harvest,Fusarium Wilt Residual
+Chickpea,120,Harvest,Ascochyta Blight Residual
+Chickpea,120,Harvest,Dry Root Rot Residual
+Chickpea,120,Harvest,Stem Fly Damage (Ophiomyia phaseoli)
+Chickpea,120,Harvest,Powdery Mildew Late Effect
+Chickpea,120,Harvest,Rust Late Effect
+Chickpea,120,Harvest,Pod Rot (Rhizoctonia solani)
+Chickpea,120,Harvest,Cercospora Leaf Spot Residual
+Chickpea,120,Harvest,Sclerotinia Stem Rot Residual
+Chickpea,120,Harvest,Alternaria Leaf Spot
+Chickpea,120,Harvest,Bacterial Blight Residual
+Chickpea,120,Harvest,Viral Mosaic Effect
+Chickpea,120,Harvest,Cutworm Damage (Agrotis ipsilon)
+Chickpea,120,Harvest,Pod Borer Larval Webbing
+Chickpea,120,Harvest,Aphid Residual Damage
+Chickpea,120,Harvest,Thrips Damage Residual
+Chickpea,120,Harvest,Storage Fungi (Aspergillus spp.)
+Chickpea,120,Harvest,Seed Discoloration Syndrome
+Chickpea,120,Harvest,Bruchid Infestation (Callosobruchus chinensis)
+Chickpea,120,Harvest,Aspergillus Rot (Aspergillus flavus)
+Chickpea,120,Harvest,Penicillium Rot
+Chickpea,120,Harvest,Rhizopus Mold
+Chickpea,120,Harvest,Sitophilus Weevil (Sitophilus oryzae)
+Chickpea,120,Harvest,Khapra Beetle (Trogoderma granarium)
+Chickpea,120,Harvest,Stored Grain Mite (Acarus siro)
+Chickpea,120,Harvest,Moisture-Induced Mold
+Chickpea,120,Harvest,Seed Discoloration
+Chickpea,120,Harvest,Grain Shriveling
+Chickpea,120,Harvest,Aflatoxin Contamination
+Chickpea,120,Harvest,Bacterial Soft Rot
+Chickpea,120,Harvest,Rodent Damage
+Chickpea,120,Harvest,Improper Drying Spoilage
+Chickpea,120,Harvest,Sack Contamination
+Chickpea,120,Harvest,Grain Heating
+Chickpea,120,Harvest,Insect Egg Contamination
+Chickpea,120,Harvest,Secondary Fungal Rot
+Chickpea,120,Harvest,Odor Contamination
+Chickpea,120,Harvest,Insect Webbing (Plodia interpunctella)
+Toor,0,Sowing,Seed Rot (Pythium aphanidermatum)
+Toor,0,Sowing,Seed Rot (Rhizoctonia solani)
+Toor,0,Sowing,Fusarium Seed Rot (Fusarium oxysporum)
+Toor,0,Sowing,Macrophomina Seed Rot (Macrophomina phaseolina)
+Toor,0,Sowing,Alternaria Seed Infection (Alternaria alternata)
+Toor,0,Sowing,Aspergillus Seed Rot (Aspergillus flavus)
+Toor,0,Sowing,Penicillium Seed Mold
+Toor,0,Sowing,Bacterial Seed Rot (Xanthomonas spp.)
+Toor,0,Sowing,Seedling Blight Initiation (Botrytis cinerea)
+Toor,0,Sowing,Phytophthora Seed Rot
+Toor,0,Sowing,Bruchid Egg Contamination (Callosobruchus chinensis)
+Toor,0,Sowing,Weevil-Damaged Seeds (Sitophilus oryzae)
+Toor,0,Sowing,Improper Seed Drying Damage
+Toor,0,Sowing,Cold Injury
+Toor,0,Sowing,Heat Injury
+Toor,0,Sowing,Nutrient Deficiency  Low Phosphorus
+Toor,0,Sowing,Herbicide Residue Injury
+Toor,0,Sowing,Soil Salinity Stress
+Toor,0,Sowing,Mechanical Seed Damage
+Toor,0,Sowing,Soil Crusting Problem
+Toor,10,Germination,Damping-off (Pythium aphanidermatum)
+Toor,10,Germination,Damping-off (Rhizoctonia solani)
+Toor,10,Germination,Fusarium Wilt Seedling Phase (Fusarium oxysporum)
+Toor,10,Germination,Charcoal Rot Seedling (Macrophomina phaseolina)
+Toor,10,Germination,Alternaria Blight (Alternaria alternata)
+Toor,10,Germination,Botrytis Seedling Blight (Botrytis cinerea)
+Toor,10,Germination,Phytophthora Root Rot (Phytophthora medicaginis)
+Toor,10,Germination,Bacterial Seedling Rot (Xanthomonas campestris)
+Toor,10,Germination,Bacterial Leaf Spot Early Infection (Pseudomonas spp.)
+Toor,10,Germination,Early Root Rot (Fusarium solani)
+Toor,10,Germination,Root Knot Nematode Damage (Meloidogyne incognita)
+Toor,10,Germination,Cutworm Damage (Agrotis ipsilon)
+Toor,10,Germination,Termite Feeding Damage (Odontotermes obesus)
+Toor,10,Germination,Aphid Feeding Injury (Aphis craccivora)
+Toor,10,Germination,Low Temperature Stress
+Toor,10,Germination,High Temperature Injury
+Toor,10,Germination,Soil Crusting
+Toor,10,Germination,Poor Soil Aeration
+Toor,10,Germination,Nutrient Deficiency  Nitrogen
+Toor,10,Germination,Mechanical Injury
+Toor,20,Vegetative Stage,Fusarium Wilt (Fusarium oxysporum f. sp. udum)
+Toor,20,Vegetative Stage,Sterility Mosaic Disease (Pigeon Pea Sterility Mosaic Virus)
+Toor,20,Vegetative Stage,Phytophthora Blight (Phytophthora drechsleri)
+Toor,20,Vegetative Stage,Alternaria Leaf Spot (Alternaria alternata)
+Toor,20,Vegetative Stage,Septoria Leaf Spot (Septoria cajani)
+Toor,20,Vegetative Stage,Cercospora Leaf Spot (Cercospora cajani)
+Toor,20,Vegetative Stage,Powdery Mildew (Leveillula taurica)
+Toor,20,Vegetative Stage,Rust (Uredo cajani)
+Toor,20,Vegetative Stage,Bacterial Leaf Spot (Xanthomonas axonopodis pv. cajani)
+Toor,20,Vegetative Stage,Rhizoctonia Root Rot (Rhizoctonia bataticola)
+Toor,20,Vegetative Stage,Root Knot Nematode Damage (Meloidogyne incognita)
+Toor,20,Vegetative Stage,Pod Borer Early Feeding (Helicoverpa armigera)
+Toor,20,Vegetative Stage,Aphid Infestation (Aphis craccivora)
+Toor,20,Vegetative Stage,Whitefly Infestation (Bemisia tabaci)
+Toor,20,Vegetative Stage,Thrips Damage (Caliothrips indicus)
+Toor,20,Vegetative Stage,Mite Injury (Tetranychus urticae)
+Toor,20,Vegetative Stage,Zinc Deficiency
+Toor,20,Vegetative Stage,Nitrogen Deficiency
+Toor,20,Vegetative Stage,Waterlogging Stress
+Toor,20,Vegetative Stage,"Herbicide Injury (2,4-D Drift)"
+Toor,70,Flowering,Sterility Mosaic Disease (Pigeon Pea Sterility Mosaic Virus)
+Toor,70,Flowering,Phytophthora Blight (Phytophthora drechsleri)
+Toor,70,Flowering,Fusarium Wilt (Fusarium oxysporum f. sp. udum)
+Toor,70,Flowering,Alternaria Leaf Spot (Alternaria alternata)
+Toor,70,Flowering,Cercospora Leaf Spot (Cercospora cajani)
+Toor,70,Flowering,Powdery Mildew (Leveillula taurica)
+Toor,70,Flowering,Rust (Uredo cajani)
+Toor,70,Flowering,Bacterial Leaf Spot (Xanthomonas axonopodis pv. cajani)
+Toor,70,Flowering,Sterility Mosaic Virus (vector: Aceria cajani)
+Toor,70,Flowering,Pod Borer Early Attack (Helicoverpa armigera)
+Toor,70,Flowering,Maruca Pod Borer (Maruca vitrata)
+Toor,70,Flowering,Flower Thrips (Megalurothrips usitatus)
+Toor,70,Flowering,Whitefly Infestation (Bemisia tabaci)
+Toor,70,Flowering,Aphid Infestation (Aphis craccivora)
+Toor,70,Flowering,Mite Attack (Aceria cajani)
+Toor,70,Flowering,Micronutrient Deficiency  Boron
+Toor,70,Flowering,Micronutrient Deficiency  Zinc
+Toor,70,Flowering,Drought Stress
+Toor,70,Flowering,High Temperature Stress
+Toor,70,Flowering,"Herbicide Drift Injury (2,4-D or Glyphosate)"
+Toor,85,Fruiting,Pod Borer (Helicoverpa armigera)
+Toor,85,Fruiting,Maruca Pod Borer (Maruca vitrata)
+Toor,85,Fruiting,Pod Fly (Melanagromyza obtusa)
+Toor,85,Fruiting,Phytophthora Blight (Phytophthora drechsleri)
+Toor,85,Fruiting,Alternaria Leaf & Pod Spot (Alternaria alternata)
+Toor,85,Fruiting,Fusarium Wilt (late infection) (Fusarium oxysporum)
+Toor,85,Fruiting,Powdery Mildew (Leveillula taurica)
+Toor,85,Fruiting,Cercospora Pod Blight (Cercospora cajani)
+Toor,85,Fruiting,Rust (Uredo cajani)
+Toor,85,Fruiting,Bacterial Leaf & Pod Spot (Xanthomonas axonopodis pv. cajani)
+Toor,85,Fruiting,Whitefly Infestation (Bemisia tabaci)
+Toor,85,Fruiting,Aphid Infestation (Aphis craccivora)
+Toor,85,Fruiting,Flower Thrips (carryover effect) (Megalurothrips usitatus)
+Toor,85,Fruiting,Mite Attack (Aceria cajani)
+Toor,85,Fruiting,Sterility Mosaic Virus (late impact)
+Toor,85,Fruiting,Micronutrient Deficiency  Boron
+Toor,85,Fruiting,Micronutrient Deficiency  Zinc
+Toor,85,Fruiting,Drought Stress
+Toor,85,Fruiting,High Temperature Stress
+Toor,85,Fruiting,"Herbicide Drift Injury (2,4-D or Glyphosate)"
+Toor,110,Maturity,Pod Borer (Helicoverpa armigera)
+Toor,110,Maturity,Pod Fly (Melanagromyza obtusa)
+Toor,110,Maturity,Maruca Pod Borer (Maruca vitrata)
+Toor,110,Maturity,Phytophthora Blight (Phytophthora drechsleri)
+Toor,110,Maturity,Alternaria Pod Spot (Alternaria alternata)
+Toor,110,Maturity,Cercospora Pod Blight (Cercospora cajani)
+Toor,110,Maturity,Fusarium Wilt (late effect) (Fusarium oxysporum)
+Toor,110,Maturity,Powdery Mildew (Leveillula taurica)
+Toor,110,Maturity,Rust (Uredo cajani)
+Toor,110,Maturity,Bacterial Leaf & Pod Spot (Xanthomonas axonopodis pv. cajani)
+Toor,110,Maturity,Whitefly Infestation (Bemisia tabaci)
+Toor,110,Maturity,Aphid Infestation (Aphis craccivora)
+Toor,110,Maturity,Mite Attack (Aceria cajani)
+Toor,110,Maturity,Sterility Mosaic Virus (residual effect)
+Toor,110,Maturity,Micronutrient Deficiency  Boron
+Toor,110,Maturity,Micronutrient Deficiency  Zinc
+Toor,110,Maturity,Drought Stress
+Toor,110,Maturity,High Temperature Stress
+Toor,110,Maturity,Excess Rainfall / Waterlogging
+Toor,110,Maturity,Herbicide Injury (Glyphosate drift)
+Toor,120,Harvest,Pod Borer Residual Damage (Helicoverpa armigera)
+Toor,120,Harvest,Pod Fly Damage (Melanagromyza obtusa)
+Toor,120,Harvest,Fusarium Pod Rot (Fusarium solani)
+Toor,120,Harvest,Alternaria Pod Rot (Alternaria alternata)
+Toor,120,Harvest,Phytophthora Pod Rot (Phytophthora drechsleri)
+Toor,120,Harvest,Cercospora Pod Blight (Cercospora cajani)
+Toor,120,Harvest,Rust (late infection) (Uredo cajani)
+Toor,120,Harvest,Bacterial Pod Spot (Xanthomonas axonopodis)
+Toor,120,Harvest,Whitefly Residual Impact (Bemisia tabaci)
+Toor,120,Harvest,Aphid Residual Impact (Aphis craccivora)
+Toor,120,Harvest,Mite Damage (Aceria cajani)
+Toor,120,Harvest,Pod Shattering (varietal susceptibility)
+Toor,120,Harvest,Lodging Due to Stem Weakness
+Toor,120,Harvest,Drought-Induced Pod Hardening
+Toor,120,Harvest,High Humidity at Harvest
+Toor,120,Harvest,Rainfall at Harvest
+Toor,120,Harvest,Herbicide Drift Injury (late-season)
+Toor,120,Harvest,Mechanical Damage (harvesting tools)
+Toor,120,Harvest,"Bird Damage (Corvus splendens, etc.)"
+Toor,120,Harvest,Rodent Damage (Rattus rattus)
+Toor,120,Harvest,Storage Fungal Rot (Aspergillus flavus)
+Toor,120,Harvest,Black Mold (Aspergillus niger)
+Toor,120,Harvest,Penicillium Rot (Penicillium chrysogenum)
+Toor,120,Harvest,Rhizopus Soft Rot (Rhizopus stolonifer)
+Toor,120,Harvest,Fusarium Storage Rot (Fusarium verticillioides)
+Toor,120,Harvest,Sitophilus Grain Weevil (Sitophilus oryzae)
+Toor,120,Harvest,Pulse Beetle Damage (Callosobruchus chinensis)
+Toor,120,Harvest,Lesser Grain Borer (Rhyzopertha dominica)
+Toor,120,Harvest,Saw-Toothed Grain Beetle (Oryzaephilus surinamensis)
+Toor,120,Harvest,Cigarette Beetle (Lasioderma serricorne)
+Toor,120,Harvest,Rodent Damage (Rattus rattus)
+Toor,120,Harvest,Bird Contamination (Passer domesticus)
+Toor,120,Harvest,Moisture Reabsorption Damage
+Toor,120,Harvest,Storage Temperature Stress
+Toor,120,Harvest,Poor Drying Before Storage
+Toor,120,Harvest,Mechanical Damage During Handling
+Toor,120,Harvest,Chemical Residue Contamination (Improper fumigation)
+Toor,120,Harvest,Mycotoxin Contamination (Aflatoxin from Aspergillus spp.)
+Toor,120,Harvest,Bag Fabric Infestation (Jute Bag Mites) (Trogoderma spp.)
+Toor,120,Harvest,Cross-Contamination from Old Grain Stocks
+Wheat,0,Sowing,Seed Rot (Fusarium spp.)
+Wheat,0,Sowing,"Damping-off (Pythium spp., Rhizoctonia solani)"
+Wheat,0,Sowing,Smut (Tilletia tritici)
+Wheat,0,Sowing,Bacterial Soft Rot (Erwinia spp.)
+Wheat,0,Sowing,Seed-Borne Mosaic Virus (Wheat streak mosaic virus)
+Wheat,0,Sowing,"Seedling Blight (Fusarium spp., Bipolaris spp.)"
+Wheat,0,Sowing,Soil Nematode Damage (Heterodera spp.)
+Wheat,0,Sowing,Pre-Emergence Seedling Death
+Wheat,0,Sowing,Poor Seed Quality
+Wheat,0,Sowing,Chemical Injury (Herbicide Residue)
+Wheat,0,Sowing,Soil Salinity Damage
+Wheat,0,Sowing,Cold Injury
+Wheat,0,Sowing,Waterlogging Stress
+Wheat,0,Sowing,Seedling Wilt (Fusarium spp.)
+Wheat,0,Sowing,Wireworm Damage (Elateridae spp.)
+Wheat,0,Sowing,Aphid Feeding (Rhopalosiphum padi)
+Wheat,0,Sowing,Cutworm Damage (Agrotis spp.)
+Wheat,0,Sowing,Seed-Borne Leaf Blotch (Bipolaris sorokiniana)
+Wheat,0,Sowing,Seed-Borne Bunt (Tilletia laevis)
+Wheat,0,Sowing,Rodent Damage
+Wheat,10,Germination,Seed Rot (Fusarium spp.)
+Wheat,10,Germination,"Damping-off (Pythium spp., Rhizoctonia solani)"
+Wheat,10,Germination,Seed-Borne Mosaic Virus (Wheat streak mosaic virus)
+Wheat,10,Germination,"Seedling Blight (Fusarium spp., Bipolaris spp.)"
+Wheat,10,Germination,Smut (Tilletia tritici)
+Wheat,10,Germination,Bacterial Soft Rot (Erwinia spp.)
+Wheat,10,Germination,Wireworm Damage (Elateridae spp.)
+Wheat,10,Germination,Cutworm Damage (Agrotis spp.)
+Wheat,10,Germination,Aphid Feeding (Rhopalosiphum padi)
+Wheat,10,Germination,Soil Nematode Damage (Heterodera spp.)
+Wheat,10,Germination,Cold Injury
+Wheat,10,Germination,Waterlogging Stress
+Wheat,10,Germination,Soil Salinity Damage
+Wheat,10,Germination,Poor Seed Quality
+Wheat,10,Germination,Chemical Injury (Herbicide Residue)
+Wheat,10,Germination,Seedling Wilt (Fusarium spp.)
+Wheat,10,Germination,Seed-Borne Leaf Blotch (Bipolaris sorokiniana)
+Wheat,10,Germination,Seed-Borne Bunt (Tilletia laevis)
+Wheat,10,Germination,Rodent Damage
+Wheat,10,Germination,Pre-Emergence Seedling Death
+Wheat,20,Vegetative Stage,Leaf Rust (Puccinia triticina)
+Wheat,20,Vegetative Stage,Stripe Rust (Puccinia striiformis)
+Wheat,20,Vegetative Stage,Powdery Mildew (Blumeria graminis f. sp. tritici)
+Wheat,20,Vegetative Stage,Spot Blotch (Bipolaris sorokiniana)
+Wheat,20,Vegetative Stage,Tan Spot (Pyrenophora tritici-repentis)
+Wheat,20,Vegetative Stage,Septoria Leaf Blotch (Zymoseptoria tritici)
+Wheat,20,Vegetative Stage,Bacterial Leaf Streak (Xanthomonas translucens)
+Wheat,20,Vegetative Stage,"Aphid Infestation (Rhopalosiphum padi, Sitobion avenae)"
+Wheat,20,Vegetative Stage,Armyworm (Mythimna separata)
+Wheat,20,Vegetative Stage,Grasshopper Damage
+Wheat,20,Vegetative Stage,Leafhopper Feeding
+Wheat,20,Vegetative Stage,"Root Rot (Fusarium spp., Rhizoctonia spp.)"
+Wheat,20,Vegetative Stage,"Nematode Damage (Heterodera spp., Meloidogyne spp.)"
+Wheat,20,Vegetative Stage,Nitrogen Deficiency
+Wheat,20,Vegetative Stage,Zinc Deficiency
+Wheat,20,Vegetative Stage,Water Stress
+Wheat,20,Vegetative Stage,Cold Injury
+Wheat,20,Vegetative Stage,Heat Stress
+Wheat,20,Vegetative Stage,Lodging due to wind or rain
+Wheat,20,Vegetative Stage,Herbicide Injury
+Wheat,70,Flowering,Fusarium Head Blight (Fusarium graminearum)
+Wheat,70,Flowering,Leaf Rust (Puccinia triticina)
+Wheat,70,Flowering,Stripe Rust (Puccinia striiformis)
+Wheat,70,Flowering,Powdery Mildew (Blumeria graminis f. sp. tritici)
+Wheat,70,Flowering,Spot Blotch (Bipolaris sorokiniana)
+Wheat,70,Flowering,Septoria Leaf Blotch (Zymoseptoria tritici)
+Wheat,70,Flowering,Karnal Bunt (Tilletia indica)
+Wheat,70,Flowering,Aphid Infestation (Rhopalosiphum padi)
+Wheat,70,Flowering,Armyworm (Mythimna separata)
+Wheat,70,Flowering,Hessian Fly (Mayetiola destructor)
+Wheat,70,Flowering,Powdery Mildew on Spikes (Blumeria graminis)
+Wheat,70,Flowering,Stem Rust (Puccinia graminis)
+Wheat,70,Flowering,Bacterial Streak (Xanthomonas translucens)
+Wheat,70,Flowering,Root-Lesion Nematode Damage (Pratylenchus spp.)
+Wheat,70,Flowering,Heat Stress
+Wheat,70,Flowering,Drought Stress
+Wheat,70,Flowering,Cold or Frost Injury
+Wheat,70,Flowering,Lodging due to wind or rain
+Wheat,70,Flowering,Herbicide Injury
+Wheat,70,Flowering,Rodent Damage
+Wheat,85,Fruiting,Fusarium Head Blight (Fusarium graminearum)
+Wheat,85,Fruiting,Karnal Bunt (Tilletia indica)
+Wheat,85,Fruiting,Loose Smut (Ustilago tritici)
+Wheat,85,Fruiting,Leaf Rust (Puccinia triticina)
+Wheat,85,Fruiting,Stripe Rust (Puccinia striiformis)
+Wheat,85,Fruiting,Powdery Mildew (Blumeria graminis)
+Wheat,85,Fruiting,Spot Blotch (Bipolaris sorokiniana)
+Wheat,85,Fruiting,Stem Rust (Puccinia graminis)
+Wheat,85,Fruiting,Aphid Infestation (Rhopalosiphum padi)
+Wheat,85,Fruiting,Armyworm (Mythimna separata)
+Wheat,85,Fruiting,Hessian Fly (Mayetiola destructor)
+Wheat,85,Fruiting,Grain Aphid (Sitobion avenae)
+Wheat,85,Fruiting,"Nematode Damage (Pratylenchus spp., Heterodera spp.)"
+Wheat,85,Fruiting,Drought Stress
+Wheat,85,Fruiting,Heat Stress
+Wheat,85,Fruiting,Lodging due to wind or rain
+Wheat,85,Fruiting,Poor Fertilization
+Wheat,85,Fruiting,Zinc or Boron Deficiency
+Wheat,85,Fruiting,Herbicide Injury
+Wheat,85,Fruiting,Rodent Damage
+Wheat,110,Maturity,Fusarium Head Blight (Fusarium graminearum)
+Wheat,110,Maturity,Loose Smut (Ustilago tritici)
+Wheat,110,Maturity,Karnal Bunt (Tilletia indica)
+Wheat,110,Maturity,Leaf Rust (Puccinia triticina)
+Wheat,110,Maturity,Stripe Rust (Puccinia striiformis)
+Wheat,110,Maturity,Stem Rust (Puccinia graminis)
+Wheat,110,Maturity,Powdery Mildew (Blumeria graminis)
+Wheat,110,Maturity,Spot Blotch (Bipolaris sorokiniana)
+Wheat,110,Maturity,Aphid Infestation (Rhopalosiphum padi)
+Wheat,110,Maturity,Grain Aphid (Sitobion avenae)
+Wheat,110,Maturity,Armyworm (Mythimna separata)
+Wheat,110,Maturity,Hessian Fly (Mayetiola destructor)
+Wheat,110,Maturity,Rodent Damage
+Wheat,110,Maturity,Pre-Harvest Sprouting
+Wheat,110,Maturity,Drought Stress
+Wheat,110,Maturity,Heat Stress
+Wheat,110,Maturity,Lodging due to wind or rain
+Wheat,110,Maturity,Poor Fertilization/Nutrient Deficiency
+Wheat,110,Maturity,Herbicide Injury
+Wheat,110,Maturity,Grain Moth Damage (Sitotroga cerealella)
+Wheat,120,Harvest,Fusarium Head Blight (Fusarium graminearum)
+Wheat,120,Harvest,Loose Smut (Ustilago tritici)
+Wheat,120,Harvest,Karnal Bunt (Tilletia indica)
+Wheat,120,Harvest,Stem Rust (Puccinia graminis)
+Wheat,120,Harvest,Leaf Rust (Puccinia triticina)
+Wheat,120,Harvest,Stripe Rust (Puccinia striiformis)
+Wheat,120,Harvest,Powdery Mildew (Blumeria graminis)
+Wheat,120,Harvest,Spot Blotch (Bipolaris sorokiniana)
+Wheat,120,Harvest,Aphid Infestation (Rhopalosiphum padi)
+Wheat,120,Harvest,Grain Aphid (Sitobion avenae)
+Wheat,120,Harvest,Armyworm (Mythimna separata)
+Wheat,120,Harvest,Rodent Damage
+Wheat,120,Harvest,Pre-Harvest Sprouting
+Wheat,120,Harvest,Heat Stress
+Wheat,120,Harvest,Lodging due to wind or rain
+Wheat,120,Harvest,Poor Drying Before Storage
+Wheat,120,Harvest,"Storage Fungal Rot (Aspergillus flavus, Penicillium spp.)"
+Wheat,120,Harvest,Grain Beetle Infestation (Sitophilus oryzae)
+Wheat,120,Harvest,Rodent Contamination
+Wheat,120,Harvest,Cross-Contamination from Old Grain Stocks
+Wheat,120,Harvest,Storage Fungal Rot (Aspergillus flavus)
+Wheat,120,Harvest,Black Mold (Aspergillus niger)
+Wheat,120,Harvest,Penicillium Rot (Penicillium chrysogenum)
+Wheat,120,Harvest,Rhizopus Soft Rot (Rhizopus stolonifer)
+Wheat,120,Harvest,Fusarium Storage Rot (Fusarium verticillioides)
+Wheat,120,Harvest,Sitophilus Grain Weevil (Sitophilus oryzae)
+Wheat,120,Harvest,Pulse Beetle Damage (Callosobruchus chinensis)
+Wheat,120,Harvest,Lesser Grain Borer (Rhyzopertha dominica)
+Wheat,120,Harvest,Saw-Toothed Grain Beetle (Oryzaephilus surinamensis)
+Wheat,120,Harvest,Cigarette Beetle (Lasioderma serricorne)
+Wheat,120,Harvest,Rodent Damage
+Wheat,120,Harvest,Bird Contamination
+Wheat,120,Harvest,Moisture Reabsorption Damage
+Wheat,120,Harvest,Storage Temperature Stress
+Wheat,120,Harvest,Poor Drying Before Storage
+Wheat,120,Harvest,Mechanical Damage During Handling
+Wheat,120,Harvest,Chemical Residue Contamination
+Wheat,120,Harvest,Mycotoxin Contamination (Aflatoxin from Aspergillus spp.)
+Wheat,120,Harvest,Bag Fabric Infestation (Trogoderma spp.)
+Wheat,120,Harvest,Cross-Contamination from Old Grain Stocks
+Corn,72,Silking,Leaf Blight
+Corn,95,Grain Filling,Downy Mildew
+Corn,20,Vegetative Stage,Downy Mildew
+Corn,20,Vegetative Stage,Smut
+Corn,20,Vegetative Stage,Rust
+Corn,120,Harvest,Leaf Blight
+Corn,10,Germination,Leaf Blight
+Corn,10,Germination,Downy Mildew
+Corn,7,Seedling Stage,Downy Mildew
+Corn,60,Tasseling,Smut
+Corn,72,Silking,Downy Mildew
+Corn,60,Tasseling,Gray Leaf Spot
+Corn,120,Harvest,Smut
+Corn,120,Harvest,Healthy
+Corn,72,Silking,Smut
+Corn,95,Grain Filling,Leaf Spot
+Corn,10,Germination,Healthy
+Corn,20,Vegetative Stage,Gray Leaf Spot
+Corn,95,Grain Filling,Smut
+Corn,10,Germination,Gray Leaf Spot
+Corn,120,Harvest,Gray Leaf Spot
+Corn,60,Tasseling,Leaf Spot
+Corn,20,Vegetative Stage,Healthy
+Corn,10,Germination,Leaf Spot
+Corn,7,Seedling Stage,Leaf Spot
+Corn,72,Silking,Healthy
+Corn,7,Seedling Stage,Smut
+Corn,10,Germination,Rust
+Corn,20,Vegetative Stage,Leaf Spot
+Corn,60,Tasseling,Healthy
+Corn,20,Vegetative Stage,Leaf Blight
+Corn,7,Seedling Stage,Rust
+Corn,10,Germination,Smut
+Corn,7,Seedling Stage,Healthy
+Corn,120,Harvest,Rust
+Corn,72,Silking,Rust
+Corn,60,Tasseling,Rust
+Corn,60,Tasseling,Downy Mildew
+Corn,95,Grain Filling,Rust
+Corn,120,Harvest,Leaf Spot
+Corn,120,Harvest,Downy Mildew
+Corn,95,Grain Filling,Healthy
+Corn,72,Silking,Gray Leaf Spot
+Corn,60,Tasseling,Leaf Blight
+Pigeon Pea,7,Seedling Stage,Seed Rot
+Pigeon Pea,7,Seedling Stage,Damping-Off
+Pigeon Pea,7,Seedling Stage,Fusarium Wilt
+Pigeon Pea,20,Vegetative Stage,Fusarium Wilt
+Pigeon Pea,20,Vegetative Stage,Phytophthora Stem Blight
+Pigeon Pea,20,Vegetative Stage,Sterility Mosaic Disease
+Pigeon Pea,20,Vegetative Stage,Alternaria Leaf Spot
+Pigeon Pea,20,Vegetative Stage,Leaf Spot (Cercospora)
+Pigeon Pea,70,Flowering,Phytophthora Stem Blight
+Pigeon Pea,70,Flowering,Alternaria Leaf Spot
+Pigeon Pea,70,Flowering,Leaf Spot (Cercospora)
+Pigeon Pea,70,Flowering,Fusarium Wilt
+Pigeon Pea,70,Flowering,Phytophthora Stem Blight
+Pigeon Pea,70,Flowering,Fusarium Wilt
+Pigeon Pea,80,Pod Formation,Alternaria Pod Spot
+Pigeon Pea,80,Pod Formation,Phytophthora Pod Rot
+Pigeon Pea,110,Maturity,Pod Blight
+Pigeon Pea,110,Maturity,Leaf Spot (Cercospora)
+Pigeon Pea,110,Maturity,Phytophthora Stem Canker
+Pigeon Pea,110,Maturity,Powdery Mildew
+Pigeon Pea,110,Maturity,Alternaria Pod Spot
+Wheat,10,Germination,Mildew
+Wheat,55,Booting,Healthy
+Wheat,40,Stem Elongation / Jointing,Leaf Spot
+Wheat,105,Ripening,Leaf Spot
+Wheat,65,Heading,Mildew
+Wheat,25,Tillering,Mildew
+Wheat,40,Stem Elongation / Jointing,Blight
+Wheat,40,Stem Elongation / Jointing,Rust
+Wheat,70,Flowering,Blight
+Wheat,65,Heading,Smut
+Wheat,105,Ripening,Healthy
+Wheat,65,Heading,Blight
+Wheat,55,Booting,Mildew
+Wheat,25,Tillering,Rust
+Wheat,10,Germination,Rust
+Wheat,70,Flowering,Healthy
+Wheat,65,Heading,Healthy
+Wheat,70,Flowering,Rust
+Wheat,40,Stem Elongation / Jointing,Smut
+Wheat,10,Germination,Healthy
+Wheat,40,Stem Elongation / Jointing,Mildew
+Wheat,25,Tillering,Leaf Spot
+Wheat,25,Tillering,Healthy
+Wheat,40,Stem Elongation / Jointing,Healthy
+Wheat,55,Booting,Blight
+Wheat,55,Booting,Rust
+Wheat,105,Ripening,Rust
+Wheat,10,Germination,Leaf Spot
+Wheat,70,Flowering,Leaf Spot
+Wheat,65,Heading,Leaf Spot
+Wheat,55,Booting,Smut
+Wheat,10,Germination,Smut
+Wheat,25,Tillering,Blight
+Wheat,105,Ripening,Mildew
+Wheat,25,Tillering,Smut
+Wheat,70,Flowering,Mildew
+Wheat,55,Booting,Leaf Spot
+Wheat,105,Ripening,Blight
+Wheat,10,Germination,Blight
+Chickpea,90,Reproductive Stages of Chickpea,Dry Root Rot
+Chickpea,20,Vegetative Stage,Pod Borer Infestation
+Chickpea,90,Reproductive Stages of Chickpea,Fusarium Wilt
+Chickpea,120,Harvest,Pod Borer Infestation
+Chickpea,10,Germination,Alternaria Leaf Spot
+Chickpea,90,Reproductive Stages of Chickpea,Rust
+Chickpea,120,Harvest,Alternaria Leaf Spot
+Chickpea,90,Reproductive Stages of Chickpea,Pod Borer Infestation
+Chickpea,90,Reproductive Stages of Chickpea,Botrytis Gray Mold
+Chickpea,10,Germination,Pod Borer Infestation
+Chickpea,90,Reproductive Stages of Chickpea,Alternaria Leaf Spot
+Chickpea,20,Vegetative Stage,Alternaria Leaf Spot
+Chickpea,90,Reproductive Stages of Chickpea,Collar Rot
+Chickpea,90,Reproductive Stages of Chickpea,Ascochyta Blight
